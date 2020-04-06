@@ -1,0 +1,80 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-14T15:27:07-03:30
+
+====== Northern_Gannaga_Wilds ======
+Created Wednesday 14 February 2018
+
+[[+The_Silver_Sleeve]]
+
+
+
+The Northern Gannaga wilds are where the Aegis shelf shattered the hardest, and as such, it is a craggy expanse of subtemperate forest, rarely knowing snow, even in winter. It is home to some of the Denser and more Dangerous beasts and monsters as there are a great many entrances to the underdark, where the tunnels from either side of the Aegis shelf terminate. The ground is a mess of varied rocks between layers of Volcanic effluence long hardened, beds of ancient sediment, and the original foundations of the prison itself. The ecclectic mix has lead to a great many dwarf fortresses; elven strongholds; Human, Dragonborn, and goblin kingdoms, all abandoned or occupied by a miscellany of horrors.
+
+===== Ecology =====
+The Northern Gannaga region is host to mostly decidious trees, minus some Skal Pine and Ushlubarel Black Larch. It contains some fruit, namely cherries, creeping snowberry, and serviceberry.  
+	It contains many monsters naturally, such as
+	* Anhkeg
+	* Basilisk
+	* Bulette
+	* Ettin
+	* Griffon
+	* Hippogriff
+	* Manticore
+	* Wyverns
+	* Brown Bear
+	* Giant ape *
+	* Elephant *
+	* Giant Goat
+	* Giant Weasel
+			   These creatures are rarer or Migratory * 
+Some of the Inhabitants of Gannaga are less natural and far more intelligent than the common monster
+	* Aarakocra of the Silver Sleeve
+	* Banshee in Elven fortresses
+	* Behir in Dwarven fortresses
+	* Beholders in Dwarven fortresses
+	* Dryads
+	* Gargoyles
+	* Trolls
+	* Wraiths
+	* Druids
+In particular, It is not uncommon for green dragons to keep their brood in the deepest valleys of Gannaga's Northern Forest, Nor is uncommon for Copper Dragons to nest in the crags close to the Foot of the Aegis mountains. Their conflicts are rare but happen on occasion.
+
+
+===== Adventuring Locations =====
+Gannaga is a favourite of  Adventurer's stories. Hundreds of civilizations had made their graves here. Thousands of monsters nest among the great ravines. Millions in coin and jewel are left to be found in great abandoned structures. An Aspiring DM can easily place their own here, The most well known is Gattinish, A fortress tucked just outside of the road to Gannaghi,
+
+
+
+[[+Dwarven_Fortress_Gattinish]]
+[[+Monastery_Of_The_Silver_sleeve]]
+[[+Barabrian]]
+[[Monteblanca ruins]] 
+[[+Elven_Stronghold_Lahta]] 
+
+==== Gannaghi ====
+	A small trading town barely worth mentioning. The only Pub and Inn is a Xanaran's
+	* Their water is drawn from a spring near the Marsh's Western border.
+	* They do not have electricity outside of a single windmill that one aspiring trader has to power his Fridge
+	* Their wealth comes from trade, and they will pay quite a premium on goods coming in, but demand even higher on goods going out.
+	* Their food is mostly from trade, local fishing, and some from hunting and gathering. The headwaters of the Gannaga are cold and while the soil is fertile, it also tends to be too harsh for crops to be grown without a significant amount of effort.
+
+Sarpal -Trader Lead
+Chana - a trader
+Franc - a halfling trader with a map
+
+
+**As of 5854, Gannaghi begins to become a home for the dispersed Manahararahi, building up rapidly. **
+
+
+===== DM's Notes =====
+The Northern Gannaga Region has two faces. There are four Clear cut roads. 
+
+
+* One from Mjoriskivor to the marsh-lake that marks the beginning of the Gannaga where a great dock has been constructed and a small town clings to life against the encroaching wilds. The Town's Name is Gannaghi and it has little other than supplies.
+* One from  Gannaghi to Xia Ochiko overland through northern Gannaga into western Gannaga
+* One from Danzuishan to Torniutr
+* And a fork from The path To Gannaghi from Mjoriskivor leads to Stalwark
+Outside of these roads, the region is a DC15 survival check to navigate to any specific location, being dense woods and rocky hills
+
+Random Encounters are Frequent here, And a party would do well to find or build sturdy and hidden shelter.

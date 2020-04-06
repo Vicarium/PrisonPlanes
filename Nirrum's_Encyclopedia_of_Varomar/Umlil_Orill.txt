@@ -1,0 +1,96 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-04T18:17:26-02:30
+
+====== Umlil Orill ======
+Created Saturday 04 May 2019
+
+Nestled into a place where a steep canyong valley meets a flat and slow slope at the edge of the foothills of the Aegis mountains south of Skalmirthon, Lies Umlil Orill, Pine Valley. 
+
+[[+Locations]]
+
+
+==== Description ====
+	Umlil Orill was founded in 5852 by Aldrin Von Feuer, A Quire Expat and ex-noble. It is now presided over by Duke Oryx Von Feuer, Aldrin's Brother.
+The town is still finding its identity but rich mines and good conditions for growing tea trees have set it up to be somewhat promising. Umlil Orill's largest portion of success is owed to adventurers who selflessly poured great wealth from their journeys into the Duchy, and into Skalmirthon as well. When offered titles and land, some of the adventurers even refused! 
+
+==== Urban ====
+	Umlil Orill is built largely in Traditional Konian Style (Tudor). The township itself is ecclectic mix of districts. In the north sits Castle Gratadormu, A well-fortified but small castle. Its size is deceptive of the region's power. Around the castle sit many offical buildings, including the crypt and barracks. To the south east, where the slope turns into forest, A massive druid grove houses some of the less-likely citizens. A central and thin river runs to the Xia river to the south. Cold Springs also dot the area, giving ample clean water from multiple sources. The waste is dumped into the river, but plans for Aqueducts are being drafted. 
+	
+
+==== Environment ====
+	The shelter of the aegis means that rain doesn't frequently fall in anything other than light drizzle or snow on Umlil Orill and the part of the Gannaga basin around it. Some precipitation sneaks in over the mountain Near Mjoriskivor and on Occasion, east-blowing winds carry moist air in from the coast. In the summer the wind blows fast and hard from the east, where in the winter, moist air gets drawn in from the west  more often, resulting in the snows becoming thick and on occasion icy, but rarely staying around for long or bu along with his normal colored scales. This puts him in a weird position amongst his own race and led to him being the runt of the clutch. This led him to exploring ideas and the world at his own pace without any normal duties expected of his parents. He spends most of his waking hours trying to learn more from the odd mortals and finding a purpose in The Eternal Citadel. Seras doesn’t keep many possessions aside from occasional scraps of tomes or scrolls he found in isolated or lost laboratories. Seras finds it most comfortable to talk with people that are likewise curious about stories or lore and especially those that collect under the light of The Citadel. "ilding up.
+
+
+=== Ecology ===
+	While part of the Gannaga river basin, the area around Umlil Orill is fairly far north. The gravelly ground has nearly no topsoil in comparison to the area further south, and special cultivation is required for much to grow other than the scraggly conifers, serviceberry, and maple.  In valleys and along some of the plains where silt has accumulated, some  crab apple trees and yew trees have taken root. The climate is too inconsistent for much in they way of mushrooms until one is south of the foothills, and the otherwise harsh lack of topsoil means there is a low population of wild boar here, though goats, mountain goats, Bactrian Camels, Moose, and the occasional Aegis Mammoth can be found feeding on low growth, spring shoots from the conifers, and plants that grow in the crags, making good use of the lack of competition. Martens and wolverines are the most common predators to find, though Griffins, wolves, Dire wolves and wyverns are not uncommon either. Most of the birds of this part of the aegis shelf and Gannaga region are tree-nesting with some exceptions. There are numerous entrances to the underdark which are all potential points of egress for all sorts of monsters as well, slinking their way out of the darkness to prowl the surface.
+	
+	
+
+===== Economy and Society =====
+	Umlil Orill's economy is currently propped up by hunting and mining while the tea trees grow. Cinnamon and Camphor trees grow well on the crags and supplement the economy with spices and incense. There is not much of a supply chain to speak of but The city holds good relations as a trading hub between Mjoriskivor, Skalmirthon, Xia Ochiko, and Danzuishan, serving as a stopover between Mjoriskivor and Gannaghi. Notably the city has good rates in gathering Orange and purple pigment from Xia Ochiko.
+
+
+==== Military ====
+	**as of 5854:**
+	While most of Umlil Orill's Military is trained in Konian Martial arts, as the founding of the Skalmirthon University and accompanying Consortium, the Crown offers preferential Aid in Combat to the Duchy of Umlil Orill through its newly bolstered Mage Legion.
+
+
+
+==== Political structure ====
+
+
+
+
+
+===== Quest: =====
+Explore a cave!
+Mine some gold
+
+Castle crew
+
+reason has 143.33
+Mordred killed an angel
+
+
+	FG 4 126
+	
+Skull lord late summer 5853 heads in with a small army of goblins
+
+
+
+Randos
+	179417454706032640
+	125077843062292481
+	257784160926564352- Doc Goo
+
+Ruler:
+	Oryx Von Feuer, Duke of Umlil Orill, 
+	~~Prismo the Prismatic, Vizier~~
+	~~Hrogar Blackwater, Vice Vizier~~
+	Lady Branwen, Spymaster
+	~~Lord Aldrin Von Feuer, Previous Baron of Umlil Orill ~~
+	Lord Fourt Ythree - Master of the dead
+	Lord  Arthur
+	~~Alarath - Knight Commander~~
+	
+Denizens:
+	The Philisophical Wanderer Seras (INTP) (The Eternal Citadel) (Pure “Couatl”)
+		A tentative observer that loves to speak quietly and run if he feels awkward
+		Age: ~70 years
+		Size: 11’02” feet long, 14’06” foot wingspan, 1090 lbs. 
+	For the most part people don’t notice if Seras is present as he prefers to hide in various forms of insects or small fowl. In fact, very few people know what he looks like in his normal form. Unlike most of his race he has unusually large patches of white feathers and scales along with his normal colored scales. This puts him in a weird position amongst his own race and led to him being the runt of the clutch. This led him to exploring ideas and the world at his own pace without any normal duties expected of his parents. He spends most of his waking hours trying to learn more from the odd mortals and finding a purpose in The Eternal Citadel. Seras doesn’t keep many possessions aside from occasional scraps of tomes or scrolls he found in isolated or lost laboratories. Seras finds it most comfortable to talk with people that are likewise curious about stories or lore and especially those that collect under the light of The Citadel. "
+
+
+
+THE BARKEEP
+skinnny dwarf youth, 
+
+Magic laws will mostly be based off of Manas rules, certain magics that manipulate ones mind are banned. Also magics for teleportation are banned within the city. External teleportation portals will be set up. If magical forms of duplication or trickery are found/used this is considered a form of the highest offense. Training duration depends on what the kid wants to do with their life. There is probably a base training which is just normal education till around the age of 14. After that they are entrusted to pick the right path and train in that way. Arms wise, citizens are permitted a single weapon per household. (Anyone who is on their own). For those of non citizen basis, such as adventurers, they are permitted their weapon but are give a no warning basis. Those who break the laws will be exiled and their goods if can be will be confiscated.
+Essentially by this system it also allows, kids who wish to gain a greater government aptitude to achieve it (most will because I plan on making the benefits wonderful (especially for the military)), while those who do not wish to at the age of 14 can choose to no longer seek the government path, but will still get some form of education. Btw the paths offered are in three broad categories, Civil, Military, and Science. Some places overlap of course, and for the time being until I can get the Schools up and running Which is my main priority other than set up manufacturing the only ones offered will be Civil, and Military. With keenly magically attune kids being sent to Mana on scholarship. Some example of jobs offered in the paths, Civil: bureaucrat, diplomat, and possibly if they win an election MP. Military: Officer, General, Infantry, or other prestigious positions (possibly commandos). Science: Professor, Advisor adept, Magical constructor.
+Those divination wizards will be highly useful btw for figuring out which kids have that science path btw. Also to be clear, this emergency conscription is most definitely a terrible idea, but its meant to be a last ditch effort. What I could do instead is 2 year forced conscription, that anyone within those range bands must serve for 2 years? (exculding of course the first born of the wealthy houses)
+So if you are 23 you must serve till 25, or if 24 and you become a citizen you must serve till you are 26
+
+Also another thing I should do, just to prevent any form of unrest, all parents who wish to have their kids given an education till they are 14 are permitted to do so, at no cost to themselves. Considerer it a bonus for living within the Duchy, if you are gonna be out all the way here we are atleast gonna give you a basic education to survive, but these kids will not be permitted to go to the paths, unless they pass a specifically goal requirement. Its not ridiculously high, but its essentially its a test and different not publicly known goals that if they complete majority of them they will be allowed to pick a path.
+
+

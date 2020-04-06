@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T15:28:18-02:30
+
+====== Factions ======
+Created Monday 14 May 2018
+
+[[+Fugin]]
+[[+Rockwaller]]
+[[+Decidente]] 
+[[+Jaquy]]
+[[+Kveter-Klas]]
+[[+Murtuck]]
+[[+Avisen]]
+[[+Barry]]
+[[+Furi]]
+[[+DurFisher]]
+[[+Stockwood]] 
+[[+Bal'Jasar]] 
+[[+Hatain]] 
+[[+Bruchev]] 
+[[+Macleodquin]]

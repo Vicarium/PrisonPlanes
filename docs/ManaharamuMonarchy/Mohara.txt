@@ -1,0 +1,109 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-09T17:48:54-02:30
+
+====== Mohara ======
+Created Thursday 09 August 2018
+
+	Mohara, Manahara, the home of the Manahararahi. This wide and imposing mountain range (of one) has a comparatively low peak in comparison to the aegis mountains. Dumohara, the northern peak is the tallest in the range and is where Sylvanus stood when he corrupted the work of Pelor. Mohara is an ancient place, the oldest mountain on the plane, composed of foreign Quartzite. 
+	
+	The Surprise here is that the Mohara Mountain is a puzzle Dungeon, built by the world spirit in co-ordination with the fey. Landing on and taking off from Mohara is easy enough via Airship, the magic breaks enough, but walking along its surface is what  triggers the magic the most. Mohara's journey will tend to begin from a mountain trail, frequently **the** Mohara mountain trail inside the university walls. 
+	
+	**Remains largely Unaffected during the siege of Manaharamu. **
+
+
+=== Mohara Mountain Trail Ascent, ===
+	The party has the option of taking a guide up the mountain but only if they show up early in the morning before the circle of the mountain druids have left. This makes the trail up to the druid "grove" spectacularly easy, such that it should be a DC13 constitution save made with advantage to avoid exhaustion. Exhaustion gained this way can be removed with a short rest. The journey with a guide takes half an hour, an hour if someone fails the constitution check. The guides take the time to tell the party to watch for aerial predators. The druid circle is ten level 3 druids and the head of the circle of the mountain.
+	
+	For those who don't  take the guide, the journey is an hour, and the constitution save made without advantage.  The air is hot but becomes slightly breezy once they climb for half of it. If the group has less than five people, Two wyverns attack. If the group has more than five people, once the Wyverns are down, three Griffons attack immediately following the most recent initative. These encounters only occur if they do not go up with the druids, who otherwise ward them off and send a message to the rangers to take care of them.
+	
+	This section functions as an antechamber, letting the party know that aerial enemies are going to be prevalent. The trail is marked by posts driven into the ground and is well worn, Steps occasionally allow navigation over the more impassable rock obstacles.
+	
+
+=== Grove of the Circle of the mountain. ===
+	This druid grove is less of a grove and more of a platform, Situated some three hudred feet above Manaharamu's tallest buildings. The trail continues upward past this refuge but this is a safe spot to rest. Small mountain plants, Scraggly pines, and small bushes line this clean stone circle, in the middle of which is a standing stone inscribed in Manar. Those who know manar will be able to translate the poem, people learning Manar might be able to read aloud the script. 
+	
+		//Naba'ti//
+		//oonwa'ta olopi//
+		//Sho ba'ti//
+		//Meikalo dal mish //
+		//Dalo ra'i ranoru'ta Hara ra//
+		//Newa'u'lo wanwilo  wa mishlia'u'lo		//
+		//Wa'u'lo wanwilo newa mishlia'u'lo	//
+		//Wanwilo Newa'ti tira  Wa'ta Hara ra //
+		//Wanwilo Newa'ta Hara, wilo Newa'ti'lo tira?//
+		//Nabrekao'ti netira'i //
+		
+		//It is quiet //
+		//the sun rises//
+		//Then It is loud//
+		//The Mountain shows us //
+		//The dichotomy of change//
+		//Do when you should not//
+		//Do not when you should.//
+		//The mountain stays when everything moves//
+		//When the mountain moves, will everything stay?//
+		//Not all things are certain//
+	
+	The view is astounding, as the Kavir'e-namak and Grass Road stretch off to the horizon, while the great civilization of Manaharamu  is dwarfed by the mountain from which it gets its name. 
+
+	Classes for the circle of the mountain take place here, and depending on when the party leaves, there might be a class ongoing. The Druid Acolytes and novices are willing to cast a version of "Ceremony" called "Walkabout" that grants the party advantage on survival checks to forage for 72 hours.
+	
+
+
+=== Power plant Trail ===
+	Druid Guides won't accompany anyone past the grove, but the trail is still well maintained, as it leads to the [[..\Power_Plant.txt|Power Plant and Monastery.]] The gate to the monastery is guarded by two Androsphinxes, Og and Maj. Passing either ones test allows entry into the Monastery. Attacking either one results in a one-way trip to the Awl Inn, where the attacker must remain for a day before reappearing at the bottom of the mohara trail. Manaharamu police are frequently called in to deal with such people. Og and Maj require a quest for someone to enter the Monastery. Og Requires a Scroll on a turqoise roller that is currently In the ruins of Font in Ganglegrove. Maj requires a bell of masterful beauty that has been dipped in the waters of the secret river Acheron.
+	
+	
+
+=== Mohara Summit trail (Lvl 7 Area) ===
+	This is where the fun begins, about twenty minutes walk away from the powerplant. 
+	
+	There is very little vegetation on the summit of Mohara. Assuming it is still daylight on the first day, then the sky is pale blue and the sun is fierce. 
+	At night the stars are awe-inspiring, the moon visible becoming slowly more distant in the north sky. 
+		**This is the time for the DM to do some hot bullshit with spirit journeys, sudden reclassing and prophetic dreams.**
+	The trail winds up one small peak that serves as the beginning of the summit trail, where the party is now above the toroids that make up the power plant, and the ground is mostly rock. The wind here is extreme and it makes travel difficult, slowing the party considerably. 
+		**This disguises the fact that the summit of Mohara doesn't seem to be getting any closer, and it is considerably poweful magic that is having this effect. Trying to move off the side of the mountain seems entirely unsuccessful, as after descending, one will have to conquer a small rise that leads them back to the trail. If someone is flying, they'll always seem to get turned around, distracted from their careful measures to not have this happen. The party is in a part of the world that is very close to the shadowfell,  the border between the planes is weak along this stretch.**
+	When the party realizes this, a laughing creature, a Korred, makes its presence known. 
+		//Of course the mountaintop isn't getting any closer. You're not asking it to stay put! [greenDick voice, Idubbz]//
+	If the party tries asking the mountain to stay put, the korred laughs again
+		//Fool! Idiot! You don't speak mountain, only mountains do! Maybe it will be more willing tomorrow! //
+	The Korred disappears and party has the option of wandering around for a bit. As they wander, fog rolls in from the east, Tainted beige by the desert light. This gives the fog a sickly look and dims the light. Darkvision isn't needed to see but the sunlight sensitivity of Drow, Kobolds, and other creatures loses its potency and they are no longer at disadvantage. No creature can see past 120ft without truesight as the fog begins to obscure the landscape. The wind remains extremely high blowing from north to south, forcing creatures to spend 3ft of movement for every 1 normally spent if they move against it. Creatures moving with the wind gain an additional 10ft of movement provided they are on foot. 
+	
+	
+	Each group of the party is attacked. A separate encounter for each group if they are split, just the one if they are not.
+		//Two cow skulls are visible at the edge of the fog, green light shimmers against the fog. A wisp of cloud passes to reveal that the skulls are attached to their skeletons still, which are roughly humanoid. They weild massive Ornate dane axes. //
+			They are so large that they have a reach of 10ft and Multiattack 2, 80 hp all other stats remain
+			**The Minotaur Skeletons attack quickly and try to throw the party off a small cliff that is 60 feet high. When they are defeated, their bodies fall to the ground far too quickly and slam to the rock with such force that a small cloud of dust is kicked up. When the dust clears 1d4 rounds later, A flat relief carving of half of a pathway lies where the bones should be. With both minotaurs dead, the carving should resemble a complete section, though it is obviously incomplete**
+		//Simultaneously (either the one group or one of the other groups) the pitter patter of running bare feet is heard. From the fog near //**you **//runs a Lost Sorrowsworn//
+			**when defeated, the sorrowsworn becomes a relief carving of the Sun but with a somewhat round chunk of it missing. **
+	If the party tries to return to the main trail, the Korred has set up a bit of a gate across it made of thin Mithril. The gate is a thin web that fits the carvings. 
+	Players need to search for puzzle pieces
+	Everything has to make the players feel small
+	The area has four notable features. On the south east side there is a hidden spring with purple smoke issuing from it, on the north east there is a ruined camp, on the south west side there is a small temple and on the east, a craggy crater arena.
+	In each area the players fight something that gives them part of the mosaic. But at the end they need to put the springwater in a bowl from the temple, place it in a stand from the camp and put a crystal from the fight pits inside the bowl
+		In the spring they fight a **Marid that looks like** most other **water elementals** and two **Air Myrmidons. ** After they beat the elementals, then a **Lonely Sorrowsworn** shows up to pull them back
+			They leave corner pieces of the carving that contain parts of the sky, including clouds and 
+		In the camp they Fight Four **Shadar-Kai Gloomdancer Skeletons** (immue to poison, blind, charm, deaf, exhaustion, frighten, poisoned, stun, Unconscious, //Resist Cold, necro, and nonmag Physical)// and another **Lost Sorrowsworn**.
+			They leave the carvings of the central mountain the bottom of which is missing
+		In the Temple they fight an **Eidolon With two Sacred Statues**, one of which //Grapples//, the other of which Breathes a cone of //fuckin ghosts that works a lot like an Adult Dragon's Breath.//
+			The sacred statues leave each of the bottom corners showing the mountain on each side of the pathway
+		In the Crater They fight one **Hungry Sorrowsworn and 6 Wretched Sorrowsworn**
+			These leave only tiny fragments, an Image of the part in extreme detail as well as an image of the whole gate, which yes, contiains an image of the whole gate, though the second image of the gate lacks the adventurers, magic only goes so far guys.
+		Each attempt at a long rest prompts a 75% Random encounter with an **Angry Sorrowsworn, and by 75% I mean the first two attempts are Automatic. Punish that shit**
+	When the gate is completed, there is a small flash of light  vertically along the center of the carving, which slides apart, as it does, the fog clears, revealing the summit, beckoning in the pale morning light. Looking around, the party will notice they really aren't far at all from the power plant, the two sphinxes clearly visible as they wander around the sides, A DC12 survival check reminds them that it is a long way to the summit. A Kirin Crosses the trail, stops for a moment to look at them, and then darts away across the sky, granting everyone present a Charm of heroism as described on DMG228. The gate fades and the Korred appears briefly behind the party to laugh a bit as it too fades. In a matter of seconds, it's as if the whole thing never happened though the land features such as the camp are still there. At each one, if the party goes back to look, are single large Gemstones. 
+	
+
+		
+
+=== Mohara Summit ===
+	The trail past the gate is remarkable only in its view, As the summit draws closer and manaharamu moves further away,  the party will need to find  ways to procure water and food as there is none of it on top of the mountain. The weather is extremel cold though snow does not tend to build up until a few days up the trail. If a creature does not have a way to stay warm, they require a DC 10 constitution check every **hour** in order to avoid levels of exhaustion. Creatures who are resistant or immune to cold automatically succeed this check, as do creatures wearing cold weather gear. In Most cases, Heavy armor is considered cold weather gear. Ask your player to describe what their armor looks like and judge fairly. Three uses of prestidigitation is enough to sustain the warmth of one creature.
+	
+	On the way over the top, the Party will run into a pack of 6 wolves. Whenever a wolf reaches 0hp, it turns into a Kholirahi Elite Rudmage.
+	
+	**Mohara Summit is of course the nesting ground of a Roc, which has built its nest but hasn't found a mate yet, but that journey is days of walking and camping away. If the party is above level 13, then this Roc is an Ancient Red Dragon instead. Good luck. When either is defeated if the party returns they will find am Ancient Silver Dragon roosting there instead.**
+	
+
+
+=== Mohara Trail North ===
+	The Trail on the north side of Mohara is easily one of the most gruelling trails in the world on the way up and one of the most pleasant on the way down. Descent from the peak side of the Mohara Range takes about two hours.

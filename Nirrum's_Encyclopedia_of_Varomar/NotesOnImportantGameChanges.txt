@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-01T13:51:36-02:30
+
+====== NotesOnImportantGameChanges ======
+Created Tuesday 01 May 2018
+  
+Dungeons and Dragons is full of things that //don't actually matter // and these things are often called **ribbons.** It is accepted than anything that does not change the numbers is the sort of thing that you can change around when it comes up, provided it is consistent. 
+Outside of those ribbons there are other things to change and consider. For the purposes of playing in Fifth edition, or in D&DNext as it is officially called, there are a list of changes to apply when playing in this setting.
+* **Summon steed** does not actually specify a horse, so in most games, it can be anything //so long as it has the stats and abilities of a horse or tiny changes within reason.//
+* For the purposes of Shillelagh, Druids can target staves, greatclubs, clubs, and really anything that was grown first.
+* Druids can wear metal, in fact, they frequently do. Turns out that metal is just as natural as wood, especially when some trees have thought it in their best interest to lace their lignin with aluminum. 
+* The racial requistes for classes or archetypes can be thrown out entirely. Somewhere in the universe, there is a human who learned how to be a spellsinger, or something similar enough, and it doesn't take a genius to figure out how to use battlerager amor.
+* Water breathing now also includes protections from the water and its salinity, though not necessarily pressure.
+* ~~Wizards, sorcerers, druids, knowledge and arcana domain clerics, Artificers, Bards, and warlocks can all see a new color, octarine. Octarine light tends to show up in dense magical fields as Mana is converted into thaumatic energy. While it won't reliably allow a caster to spot magical items, it might help, especially if the item isn't concealing its magical nature. Octarine is impossible to pin on a color wheel (or sphere), as each individual will interpret what color it is closer to differently.  Things that have octarine pigment will appear as if that pigment is not there, Octarine colored cotton would show up as white for example. Materials that are transparent but carry octarine pigment will be opaque to such casters but transparent to non-casters or other types of casters. It is up to the DM to decide any changes to this, but it makes for great puzzles. ~~
+	* ~~This is retroactive, even to characters from other planes who weren't born able to see this color. This has to do with the equivalent of Magical Rayleigh Scattering and the Narrativium Quotient of this section of the far realm~~
+	* Errata'd Now a Manahararahi racial feature
+* The Nature of the plane selects more evil creatures than it does good, and one might find that alignment in traditionally good creatures tends to be skewed evil. Generations might change this but be wary
+* Teleport, if cast at 8th level can open a portal up to 100 feet across
+* a creature being targeted by gentle repose does not need to have eyes but in fact just needs to be in contact with the two copper pieces. The denizens of the plane often carry a wristlet with two mounted copper pieces in them for just such an occasion,  but industrial versions of these bands tend to be made from wool.
+* **Square of the spell level multiplied by 10 gp plus DOUBLE of the consumed material cost plus 10% of nonconsumed material cost for purchasing casted spells.**
+* ~~If multiclassing Ranger and Paladin into eachother, consult the spell slots table for either for determining how many spell slots you have at your total level rather than the multiclassing table. A 3 Paladin/2 ranger has two level two spell slots, but knows no level two spells.~~
+	* Updated rules
+* All magical weapons native to the plane have the property of returning if thrown, it's just a holdover baked into the process for making magic items that survived since fourth edi-I mean... the dawn war. On occasion this applies to other magical items, Frequently Tea Sets, A few local legal documents, and the odd sandal
+* removing limbs, organs, or other body parts, or causing terminal failure of bodily function is henceforth considered damage.
+* Sleeping in armor has no negative effects and is quite comfortable but the smell starts to stand out after a while
+* Conjure woodland creatures and conjure animals now require the player to choose the animal. I don't need more work
+* When a wild magic sorcerer casts a spell, they must roll a D4 and on a 1, a wild magic surge occurs
+* The coefficient of friction on almost all force spells is negligible for almost all purposes, but if it comes up, say that it is variable but by default mimics glass. Allowing certain spells to be held and not, for example, for those same spells to achieve superluminal velocity
+* The speed of light on this plane on average is actually significantly slower than it would be in a vacuum. 
+* Antimagic field works by using up all of the magic in its area by //Literally transforming it back into mana, //with a little extra light an heat as inefficiency, as well as a very small but dense thaumatic field. Antimagic fields are fantastically stable but if they surround a volume too quickly, the trapped mana can result in wild magic surges.
+* The First bullet of the shield master feat has been changed to "when you take the attack action, you may replace one of the attacks  with an attempt to try to shove a creature within 5 feet of you with your shield  and make another single melee attack as a bonus action, or you may take a  bonus action to try to shove a creature within 5 feet of you with your shield after taking the attack action on your turn. 
+* Warlocks may now use intelligence as their casting stat
+* Eldritch knights and Arcane Tricksters are not limited on their choice of schools of magic.
+* All things that leave a corpse behind are assumed to have death saving throws. If it leaves a body, doubletap. This obviously does not apply to things that don't leave corpses, such as demons, Devils, angels, most fey, incorporeal undead, and most elementals.
+* Plant growth only targets multicellular plants and only plants that are outside of a creature comparable to the spell's level.
+* Firbolg are Large
+* Catapult can target objects that weigh less than 1lb
+
+
+== SIMULACRUM DOES NOT EXIST ==
+The villans win if it does, they do so before the campaign has even started, your party fights an army of level 20 wizards that cover every square inch of the plane. Trust me, Time and Economy are well available to the most powerful things on this plane, and just about any fix for simulacrum short of a complete rewrite is still too powerful
+
+
+[[+Lich_Ritual]] 
+
+Certain ribbons have been changed in my encyclopedia, Namely, many of the weapons on NPCs will show up as something that isn't exactly on the weapon table. Look them up, it adds to the flavour of the NPCs

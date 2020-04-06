@@ -1,0 +1,151 @@
+# Blackwater
+Created Wednesday 24 October 2018
+As this is the beginning of the adventure on Snarl, The players will always start at "The crossroads" and come in through the north gate. 
+	
+Because blackwater is an entirely sacrificial town, It is worth noting to the DM that, like all good places, the citizenry, treasure, and infrastructure are all disposable. It is important to *let players try to steal, hide, and break things*. It is also important to have consquences. Blackwater has a town guard, and they're *not* utterly incompetent, just spread thin right now. Also, to help your players out, there are easily obtainable mundane items scattered throughout town that are interesting options that are different than what appears in the PhB or DmG. 
+	
+	
+	
+	
+	
+Blackwater is a town that lives up to its name. 
+	
+Urban: Small city
+The area around Blackwater is a thick forest of Fir, Aspen, Mountain alder, Maple, Beech and Serviceberry. It contains boar, various Cervids, Bears and Weasels. The Water contains many fish. Trout and Salmon are extremely Common
+Entirely Temperate: Rotates seasons but no overwhelming environmental effects except in winter. 
+Food Selection is a mix of common vegetables and meat from local farms. Turnip, Potato, Sweet Potato, Cabbage, Kale, Dandelion, Rhubarb, Wheat, barley, and carrot are all common wares. Beef, Lamb, Pork and Chicken are the only meats raised around the town. Game Meat is readily available, and the butchers in town are experienced with preparing nearby critters.
+Fresh water is available from the two rivers that run through town
+
+The town has no power supply but is being Inspected by the university of Manaharamu to get ready for a hydroelectric power station just upstream.
+
+Culture: The city is quiet, a little Xenophobic but not inhospitable. There are no established schools in the town so literacy is surpassingly low. Door locks are common but not ubiquitous. The farmers don't have locks, but the blacksmiths and other shop keepers do. All Shops have locks and door bars. There are a few pubs and a few inns in town, there is not much that is different between them.
+
+Notable Factions	The Criminal Underworld.
+- Represented by a halfling
+
+The Local Duchy
+-Technically, Blackwater is a "Semi-Sovereign Satellite of the Skalmirthon city-state". This means nothing because Skalmirthon hasn't been able to send any sort of aid for the past hundred years. The duke is Aided by and is constantly in the presence of a dour looking tiefling named Domino. 
+		
+Minor Factions
+Vampire Thralls
+Mostly peasants with a bite attack, one has life drain
+Temple of the Raven Queen (and by Extension Celemvor)
+Anti Undead, pro suicide. Level 1 and 2 clerics with one Level 5 cleric (Valalen Feaquenta)
+	
+Present Factions
+University of Manaharamu
+-Technicians inspecting the town
+Captain Tulio Thomas of the Featherbitey
+-Pirates for immortality!
+Incoming factions
+The vast majority of the Kholirahi Airship Armada.
+-Let's just say they hate the shit out of everything.
+
+
+Notable NPCs
+	
+Priest Valalen Feaquenta (ENTP) - A deep, resonant voiced Half-Elf with a resounding hatred of Undead and a Love of life. He will *Never* allow someone to revive the fallen in his presence without making his own religion check with a DC of 15, but he will heal people's wounds. He Carries a deeply Curved War Scythe when he needs to head out for combat, made from a Red Cap's Sickle mounted on an Ash Pole. He Stays in the Temple of The Raven Queen, which he had built only a decade previous. He has long black hair in a braid, pale skin and looks about 40.
+		
+		
+The Duke Arcesion (ISTJ) - A niave yet machiavellian man, conservative, modestly accommodating to the important, indifferent to the peasantry overall. He is a Nobleman, armed with a shortsword. 
+	
+Vizier Domino Isrik (INTJ) - a capable and dour tiefling who claims to be from a place called "Faerun", waterdeep specifically, and came here when he ran afoul of a wizard. Domino is a level 3 Warlock of the great old ones. He wields a wand made of Iron, with a cork oak handle, 
+		
+Captain Tulio Thomas (ISFJ) - A pirate captain offering immortality for service. Don't worry about Dying on the way, you'll probably come back.
+	
+Shyxco (ISFP)- The lead artificer in charge of building the power grid for blackwater
+	
+		
+Shops
+Frenki's Smith and Tanner
+-Frenky only does armor but can only make suits that cost 75gp or less, he *can* fix armor that's not sized properly if he is provided the materials. Also makes whips
+		
+Tiggi and Torg Smith and Carver
+Tiggi only does Melee weapons and Darts, but she can't make Greatswords, Longswords, Rapiers, and morning stars beacuse they take too much time. Also won't make whips. Torg carves and whittles in the same shop. Both will do domestic work, such as rails, chains, and tables. Both are extremely talkative.
+	
+Manche Bower and Fletcher
+Manche Makes all ranged weapons except Hand crossbows, nets, and Darts 
+		
+John's Stage
+Supplies mostly fishing gear and nets, but also will sell a rowboat for double the listed cost. 
+		
+The Adventurer's Kit
+Run by an eccentric human who was raised by Dwarves (and thus speaks dwarvish as well as common) named Ang Saram. Ang stocks everything on the adventuring gear table (PHb 149),  except ammunition, holy symbols, Clothes, manacles, rations, and heavy iron tools like sledgehammers and picks. Almost all goods are sourced locally but he only stocks a few of each item. He keeps an Elf Knight (phb 347) as a guard. This is the largest store in town. It also stocks the Equipment packs and all gaming sets. It also stocks one instrument (roll 1d10 on the list of instruments in the phb 153 to find out which one). Also Stocks Healing potions behind the counter
+		
+Tinker's Trip
+Tinker's holds everything on the Tools table except instruments, poisoner's kit, and Vehicles. They will only sell a thieves' toolkit on a dc13 persuasion check. Tam Tinker, the owner, can provide access to a cart, two Draft horses, up to 7 ponies, One chariot, one carriage, one sled, and one wagon at their respective prices in the PhB. tam tinker has expertise with horses
+		 
+		
+	
+Restaurants, Taverns, Inns, and Other Distinct Establishments
+	
+Xanaran's Bar and inn
+Run by a dwarf named Barstomun strongbeard, It is the most stereotypical tavern. It has Ten rooms, Last call is at 10:30, Kitchen closes at 9, breakfast is at sunrise.
+		
+The seedy stout
+A small bar in the middle of town. It has a door on both sides of the main room, but it is constructed as part of row housing. a Secret door behind one of the tables leads into the small fight pit that spans the basement areas of both the bar and the adjacent house. Esdav- half elf, thicc.
+		
+
+Alione - Kholirahi duke vampire that stopped in and left.
+		
+Ingi's Tavern
+A bar near the south of town, it's only open from 10-12 but the barkeep has a knack for knowing what's to come. He's extremely helpful and has an excellent outlook regardless of the day.
+		
+THE PLOT=============
+This is, of course, the beginning of an adventure. On this plane, you can be anyone from anywhere. There are many places to meet in town. A noticeboard, one of the taverns, In the court of the duke, on a boat travelling upriver east or south, or downriver west. Either way. Trouble is brewing.
+	
+There are a great many side quests in town but in ten days, the town gets raided by the Kholirahi army.
+	
+The first sidequest is to actually deal with undead that have been creeping around on the north east side of town, following the river
+The Undead are being raised by a wight.
+The undead come in droves of three and are all Zombies, never skeletons
+It is said by townsfolk that something more sinister than zombies walks among them. 
+Toby, a farmer, says that one of the undead spoke with him, Asking where to find Elsie Bartold, the night she died. Toby Learned the light spell and said that the creature shyed away from it. 
+		
+If they go on a night after the first, They Find Valalen waiting by the farms with his wicked War Scythe and armor on. He is willing to help.
+		
+The Wight is named Armornan. He is disgusted by the players, attempting to stop his crusade against the circumstances that took his family, an unfortunate tale of sociopolitical disenfranchisement. He waits in an old Foundation, covered by thick trees that are already expressing the bite of autumn. 
+If confronted in the day, Armornan will actually run away from the patches of sunlight. Reveal the  the patches if someone notices him avoiding certain areas, then reveal that the trees look unstable at the roots, despite their thick canopies, they can be toppled with a Dc15 strength save.
+			
+The Area where Armornan is is guarded by a single skeleton who shoots on sight, no questions asked. If the party Manages to recruit Valalen into helping them, then five more skeletons wait in the trees
+			
+Armornan sits on a small treasure pile, Loot taken from the zombies to keep them quieter. 13,00cp, 1500sp, 90gp and six gold lockets depicting  in Ivory Cameos some people, presumably the families or lovers of those who wore these. Each worth 25g
+			
+The Second Sidequest is The Captain Guard paying for the Apprehension of criminals in the town
+Bandits that hole up under the seedy stout, There is a Series of Tunnels that run under the town, old passages, built by the people who inhabited blackwater over a thousand years ago before....something happened. They have been repurposed into sewers by running part of the river through them, but they hide secrets.
+		
+The Guards are paying a bounty of 5 gold pieces for each of the bandits brought back, dead or alive.
+		
+There are 20 bandits in total. One of which is a level 2 halfling rogue. They are scattered around the tunnels. If the party takes out a few and retreats, they begin fortifying with simple traps, caltrops, and blockages.
+		
+The entrances to the tunnels are in the keep behind the throne, on the north and south side of town in the sewers, any of the outhouses or commodes in the town and of course, the secret entrance underneath the seedy stout which leads you to the fight pits.
+		
+They only seem to have individual treasure,and if questioned, say that they gave their money to the guy who left town yesterday for drugs.
+		
+There is a secret entrance that leads to the underdark, and into the chamber that houses the Skull and Nero's Arrows. It requires a DC 20 Perception check to spot, and a DC 15 investigation that tells you that the mechanism that opens the door is fire.
+		
+		
+The Third Sidequest involves hearing the incoming message of the Kholirahi army
+If the players end up at the keep for whatever reason, they might hear about the incoming invasion. The force is described as massive, a foot army preceding a navy preceding, something unheard of since the War of Ants 50 years ago. An Airship Armada has been spotted making its way past Clayman's Point, which scouts report is under seige. 
+		
+The Town immediately makes preparations to fortify against the invasion, many people begin taking to the tunnels or countryside. Anything the party can do to help fortify the town or evacuate the citizens is appreciated.
+	
+	
+The Fourth sidequest is the Corruption of Domino by... Something
+Domino, the tiefling vizier to the Duke is a warlock and is channeling elemental energy into five crystals in his tower, Allowing him to boost his pact (to level 3). He intends to overthrow the duke. This Plotline doesn't have many hooks but PCs are invasive, they'll probably figure it out. 
+	
+The Fifth Sidequest is the fucking vampires
+They attack people at night. Good shit
+	
+Minor Sidequests involve an imp(quasit) being spotted around town, someone trying to get some large crabs out of the river, and a few angry goats. 
+	
+The Deep Quest involves The underdark and the downward passage.
+The Deep underground passages in blackwater are old and largely forgotten, sealed by magic, only a few nothics, a couple of Gray Oozes (mm244). It consitutes a maze that is misleading in that it only appears to mislead. Of a hundred passages, they all lead to either the outside world or the underdark except one. Hidden behind a large unmagical boulder is a passage way that is 120 feet long before leading to the resting place of The Archer Nero, a hero of blackwater's from 16 years previous, the tomb, built by his companions houses six sarcophagi. Three of them are magically trapped, casting
+	
+==THE END OF BLACKWATER== One way or another, Blackwater falls
+The Kholirahi army sweeps in, Deloch or the party Unleash the shadow, depending on how the party has moved into the next area, different paths follow. 
+		
+If the party leaves on foot, they are still able to access most roads, but the roads are long and dangerous.  The next nearest settlement is Varshelm to the north. Similarly near is Marshfire. The nearest cities are Skalmirthon and Kholiras. 
+		
+The Party can also leave By river if they can slip past the navy, By Underdark if they follow the tunnels down, and by airship if they manage to steal one. The Kholirahi army has Seven signet levels, Obtaining any will gain access to the airships.
+

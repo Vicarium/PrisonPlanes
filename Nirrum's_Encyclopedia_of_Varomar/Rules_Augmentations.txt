@@ -1,0 +1,220 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-13T11:35:44-03:30
+
+====== Rules Augmentations ======
+Created Thursday 13 February 2020
+
+
+In Snarl, you can be anyone from anywhere. In one of the cities, you can be anyone from anywhere and //probably live. //This means that there are great magics and arts across the multiverses that can be found here, and because of the nature of getting here, they are things you are //likely// to find, even if there are fewer people here than elsewhere.
+
+Here is a list of some of the things you //may// do without breaking the setting at all, Including classes and archetypes. If you are the one running this game, then this list is merely a list of ideas that might indicate what the setting is //intended// to feel like. This is a world of exceptions though, and there is no reason not to find something absolutely bonkers here. These are just some (arguably) balanced options. It is worth noting that many of these changes can completely change the flavour of a class to something unintended by the designers. To this idea my statement is "My ribbons are prettier"
+
+
+
+	**Legend:**
+		//Published options - //Official Wizards of The Coast Dungeons and Dragons Published material (in books), not including Unearthed Arcana or Plane shifts and streams
+		//Unearthed Arcana - //Official Wizards of the coast playtest material and planeshifts
+		//Specific homebrew - //Certain Homebrew materials that will be usually mentioned by name
+		//Setting legal - //They exist in the world frequently enough that a DM //should// allow them, but as always, are under no compulsion to
+		//Are allowed - //Exist infrequently in the world, A DM may choose at their leisure to allow these, though it is assured they are not too potent
+		//Banned - //**Not allowed. Even if you are the DM. Ruins the fun. :Winkyface:**
+		
+		**A note on Guildmaster's guide to Ravnica: **The subclasses are allowed, the backgrounds and items are not. Ravnica was made for a higher power setting than the rest of Dungeons and Dragons, 
+		**A note on Unearthed Arcana: **With only some noted exceptions, if a character option is published or posted in unearthed arcana after already having been in one, then the most recent version of the option is the preferred one. 
+
+**All classes:**
+	Any racial restriction for a class or archetype has been removed. Incongruities with the lore can and will be answered with ~~bullshit~~ Advanced lore. It's a big multiverse and there are lots of opportunities.
+
+**Artificer**
+	All published options are setting legal. Gunpowder and most explosives don't work on this plane but things like compressed air and //magic// Obviously do. Artificers often are trained at the university of Manaharamu but nothing stops anyone from tinkering.
+	
+**Barbarian**
+	All published options are setting legal, but battleragers are going to feel nerfed in comparison to other barbarians. The specific homebrew for the Wild Soul Barbarian is allowed as well
+	
+**Bard**
+	All published options are setting legal. Because of their studious nature, Bards may use Intelligence as their dominant stat, reflecting then a different type of wizard, capable of learning in a different way as well as the Bard's explicit use of memory. 
+
+**Blood Hunter**
+	Matt Mercer's Blood Hunter Class is setting legal. Please use the most up-to-date version.
+
+**Cleric**
+	All published options are setting legal. While it is not suitable for //this// particular prison plane, the Specific Homebrew for The Magitech Templar (and thus gear domain) is allowed in the prison planes as well.
+	* Not all gods hate undead so the destroy and turn undead features can also pick from fey, fiends, celestials, abberations, and elementals, though there is a dearth of some of these. A cleric may change what type of creature this feature targets at the end of a long rest. It should be assumed that clerics act in accordance with their god's wishes and a god may choose to //not// change a channel divinity or choose for the cleric, should there be need to keep it a certain type. 
+		**DM's Note: **Or if a DM knows that the dungeon they're going into is absolutely packed with mephits or sprites as an example.
+	* Chill Touch, Lightning Lure, Primal savagery, and create bonfire are all Cleric cantrips
+	
+**Druid**
+	All Published options are setting legal. Druids of the Circle of Spores are known as Circle of Parasites/symbiosis, a set of much more robust names.
+	* The wild shape feature can become swarms of beasts, though the components of the swarm must remain closely packed together or the wildshape ends with the druid reappearing at the location of the centermost creature. 
+	* If a Circle of swarms druid becomes available, then that will be used instead. (maybe add circle of stars, seasons, or sun)
+	* Certain Monstrosities are now considered beasts (see monsters)
+	* Druids can wear metal, in fact, they frequently do. Turns out that metal is just as natural as wood, especially when some trees on these planes have thought it in their best interest to lace their lignin with aluminum. This was clarified in a sage advice to be cultural and not mechanical, but I felt the need to be explicit here
+
+**Fighter**
+	All published options are setting legal. 
+	* **Brute Fighter** from the Three subclasses Unearthed arcana, (also containing the original spore druid) is allowed.
+	* Eldritch knight can choose any two schools of magic and instead of just the wizard list, they can also choose from either Bard, Sorcerer, Druid, or Cleric, Using that class' Casting ability as appropriate. They may only pick from one spell list.
+
+**Monk**
+	All published options are setting legal except the Way of Four Elements, which is allowed (see below). 
+	* The Unearthed Arcana for way of the astral soul is allowed
+	* For the Class features variants for monk and for the Official **Kensei, **The restriction on two-handed weapons has been modified. Any melee weapon that is two-handed has a non-heavy variant at 3/4 the listed weights (see **Weapons **further down for more clarification), both 2d6 and 1d12 weapons drop to 1d10, 1d10 weapons drop to 1d8, and Greatclub is worse than a staff presently anyway. These versions of each weapon can be used a monk weapon for the purposes of those features.
+	* The Way of Four Elements Remastered by [[/u/spiketaildrake]] is setting legal and preferred.
+
+**Paladin**
+	All published options are setting legal. There is a reminder that a Paladin's Oath is the source of their power. They do **Not **require gods or sugar daddies to use their abilities, which is why their casting ability is charisma. They are powered by sheer determination.
+	* The Divine Sense feature allows a paladin to choose three creature types selected from fey, fiends, celestials, abberations, elementals, constructs, undead, and monstrosities. Some creatures listed as monstrosities are no longer considered such (see monsters below). 
+	* The Divine smite feature allows a Paladin to choose Undead and one other, selected from fey, fiends, celestials, abberations, and elementals, constructs, and monstrosities. A paladin can change which creature type  other than undead is affected by this feature when at the end of a long rest. This reflects a Paladin's determination to combat certain forces, though undead are always weak to this sort of power. This list is longer than others because Constructs and Monstrosities rarely have the extraplanar or extremely magical properties that the others do. The difference is subtle but noteworthy, though in some cases, such as modrons, Exceptions can be made at a DM's Discretion. Unless Specified, assume that discretion is //not// in favour of such a ruling.
+	* The Lay on Hands feature can affect any creature. 
+	* The cleansing touch feature works on Magical effects that are not spells, such as Ghost posession
+	* The Channel Divinity options that list a creature type now allow a paladin to pick two creature types when they obtain this class feature. A paladin may choose Fey, fiends, celestials, abberations, elementals, and undead. When Obtaining a new level in this class, a Paladin may change one type of creature that this feature targets.
+	* Divine smite can be used on fists, despite what the Sage Advice Says
+	* Undying sentinel technically makes you immortal, as one of the drawbacks of old age is the breakdown of processes which eventually leads you to death.
+
+**Psions, Mystics, and other such things**
+	So far, no published options or unearthed arcana are setting legal, The Mystic Unearthed arcanas are **banned**. That said, There //are// psions and other psychically powered people in this world, and it would not break the setting to include homebrew that a DM judged as fair
+
+**Ranger**
+	The unearthed arcana for the most recent revised ranger or the class feature variants are both setting legal. The Player's Handbook Ranger and subclasses are  allowed, though nearly every feature they get is underpowered for its level and something that another class gets much much earlier. All other published subclasses are setting legal.
+	* Certain monstrosities are now considered beasts, and are thus available for beast companions (see monsters)
+
+**Rogue**
+	All Published options are setting legal
+		* The Unearthed Arcana version of the Swashbuckler is allowed
+
+**Sorcerer**
+	All published options are setting legal. 
+	* Lightning bolt, call lightning, storm of vengeance are added to the sorcerer's spell list.
+	* A metamagic option exists that allows a sorcerer to change the damage type of a spell for two sorcery points. There are unearthed arcana that offer this but this is //explicitly// something they can do. 
+	* Similarly, when a sorcerer learns a sorcerer spell (from the sorcerer spell list) they can choose the types of damage dealt by that spell. This decision cannot be changed later.
+	* Whenever a wild magic sorcerer casts a spell //at all, //Roll 1d4, on a 4, a wild magic surge occurs. There is no need for DM participation here, we have enough on our plates
+
+**Warlock**
+	All published options are setting-legal
+	* Warlocks may use intelligence as their casting ability modifier. They were designed to be Intelligence-based for this edition anyway. This reflects the methods of studying that some warlocks use to gain their power, in the writing or obtaining of their pact, in fulfilling the conditions of that pact or avoiding their patron to the same effect.
+	* Find Familiar for warlocks can summon any tiny fey, fiend, celestial, elemental, or construct, of CR 1 or lower, abiding by the usual restrictions. Some of these things do not exist in the monster manual, but should they be added, then they would be allowed.
+	* Awakened mind gives one-way telepathy, despite the poor wording
+	* The Unearthed Arcana Option for "The Seeker" Patron is setting Legal.
+	* A reminder is necessary that a warlock earns their power and it cannot be removed unless that is part of the terms of the pact. 
+	* Agonizing blast can add either your Charisma //or// your intelligence modifier to damage
+	* Hex Warrior allows Charisma //or// Intelligence to be used in place of Strength or Dexterity
+	* Any time a warlock class feature says "Charisma", replace it (non-recursively) with "Charisma or intelligence"
+
+**Wizard**
+	* All published options are setting-legal. 
+	* In this setting, there are vast congregations of mages, in particular at the university of Manaharamu. At these locations, all non-enchantment spells cost a quarter of the resources and half the time to write in a spellbook. For characters who got their first level in wizard, artificer, or a warlock on this plane also only need to spend a quarter of the time, as Manar-Standard spell notation has been around for thousands of years with only minor changes. Enchatnment spells are the exception to this which follow the normal rules unless the player is somehow //presently enrolled at or employed by the university of manaharamu in theraputic enchantmnet courses or programs, and has obtained their Enchantment License from the Department of Pacts. Necromancy spells like Animate dead also require a license but you are not required to be enrolled to obtain access to learn the spells.//
+	* Transmutation wizards of the 14th level or higher can use their Major Transformation option from Master Transmuter to alter the size and mass (though technically just the density) of an object by 10% at a time. The result object must be made of materials and of a form that fit these criteria. The result must be within these bounds for 90% of the objects's resultant volume. No Turning a pile of sand into a cube of aerogel with a gold coin at the top allowed.  There is a chart in the golden tower which allows wizards to follow chains of materials to achieve other ones over the course of days to months. 
+
+**Casting Classes and classes with abilities that reproduce spells**
+	* Some spells have had their school of magic changed, see **Spells** below
+	* A casting focus for any class that has the Arcane or Druidic focuses feature, can be anything that is "sufficiently mystical," Including decks of cards, jewelled hair pins, bowls made out of turtle shells, or copies of the player's handbook.
+	* Verbal components are always audible unless stated specifically in the spell or a feature that reproduces it or unless the Subtle Spell metamagic is used
+	* Somatic components are always very visible unless stated specifically in the spell or a feature that reproduces it or unless the Subtle Spell metamagic is used
+
+**Backgrounds**
+	* All published options are allowed except those from Guildmaster's guide to ravnica. 
+	* A reminder that Rules as written, backgrounds are customizable, and features and proficiencies from them can be changed around to suit the character.
+
+**Multiclassing**
+	* Muticlassing Paladin, Ranger, And Artificer now follows a different chart. Add together all levels you have in these classes and consult the spell slot table of one of them (as they have the same progression). If you have multiclassed into another class with the spell casting feature, then add the levels you have in these classes together before dividing and rounding.
+	* Multiclassing Eldritch knight and Arcane trickster now follows a different chart. Add together all levels you have in these classes and consult the spell slot table of one of them (as they have the same progression). If you have multiclassed into another class with the spell casting feature, then add the levels you have in these classes together before dividing and rounding.
+**Feats**
+	All published feats are setting legal. All Unearthed Arcana Feats are allowed
+	* The First bullet of the shield master feat has been changed to "when you take the attack action, you may replace one of the attacks  with an attempt to try to shove a creature within 5 feet of you with your shield  and make another single melee attack as a bonus action. Alternately you may take a  bonus action to try to shove a creature within 5 feet of you with your shield after taking the attack action on your turn. "
+
+**Races: **
+	All published races except centaur are allowed. Centaurs are **hard banned**. They get eaten by the sun. This includes cervitaurs and similar races. Minotaurs are fine.
+	* Firbolg are considered large in this setting as they have been in every previous edition. 
+	
+**Weapons and Armor**
+	* The restriction on two-handed weapons has been modified. Any melee weapon that is two-handed and heavy has a non-heavy variant at 3/4 the listed weights. both 2d6 and 1d12 weapons drop to 1d10, 1d10 weapons drop to 1d8. If a weapon has different types of Damage dice, all relevant dice drop.
+	* Sleeping in armor has no negative effects and is quite comfortable but the smell starts to stand out after a while
+	* Bucklers are available to all classes capable of using medium armour, as well as swashbucklers (for them to swash, as is tradition), they function as a shield, take a bonus action to draw, and provide a +1 bonus to AC instead of a +2. They weigh 1lb. 
+	* Unarmed strikes count as natural weapons for the purposes of making Melee weapon attacks
+	* Improvised weapons count as weapons for weapon attacks. 
+	* Because Damage types were poorly written in 5e, and because I am including things that change their function in this setting, weapons now are capable of doing the following damage types in addition to their usual types. They can only use one at a time. Also included are other modifications. Apologies for the increased complexity
+		* Maces, Sickles and light hammers can do 1 piercing damage
+		* Some Greatclubs (though not all)  can do 1d6 piercing
+		* Spears can do 1d6 bludgeoning, 1d8 versatile, and 1 slashing. 
+		* Some Quarterstaves (though not all) can do 1d4 piercing
+		* Spears and quarterstaffs both have reach while held in two hands
+		* Battle axes can do 1d6 versatile. Some battle axes (though not all)  can do 1d8 piercing, 1d10 versatile.
+		* Glaives and halberds can do 1d8 piercing damage. Some halberds (though not all) can do 1d10 bludgeoning damage
+		* Greataxes can do 1d6 bludgeoning, 1d8 versatile
+		* Greatswords, longswords, and shortswords can all do equal amounts of slashing and piercing. Greatswords and longswords can do 1d6 bludgeoning. Greatswords are now 5lb
+		* Pikes and lances (while wielded two-handed) can do 1d6 bludgeoning. 
+		* Pikes have a 15ft reach and have the **unweildy** property, which is **loading** but for Melee weapons instead. They also now only weigh 7lb like a sane person would expect
+		* Scimitars can do 1d6 piercing, effectively making them identical to shortswords. 
+		* Tridents now do 1d8 piercing damage by default and 2d4 while versatile
+		* (most) War hammers can do 1d8 piercing damage, 1d10 versatile. 
+		* There is a rapier variant, the Sabre, which can do 1d8 slashing damage or 1d4 piercing damage, finesse. A rapier can do 1d4 slashing damage
+		* There is a  halberd/Glaive variant, Pollaxe, which can do 1d10 bludgeoning damage or 1d8 piercing damage and has reach. Some but not all can do 1d8 slashing damage. 
+		* There is another halberd/glaive variant, Longspear,  that can do 1d10 piercing damage or 1d8 slashing damage and has reach. (taking up the place of the pike)
+	* **Special weapons** exist in this world and can complicate things. At a DM's discretion, a player can be allowed to have these
+		* Lochaber axes, Kamayari, Fauchards and many such polearms have **hooked** as a property, and allow a player to, as a bonus action attempt to pull a target that is no more than one size larger up to 5 feet or prone them as part of a Melee weapon attack made on their turn. Hookswords are a shortsword that have this property. There are very few other forms of weapon that have this sort of feature because of the inconvenience of wearing or carrying them.
+		* Atlatl, Amenta (amentum), and other spear-throwers can be used to double the range of Javelins, spears, tridents and darts. Drawing one follows the same rules as other weapons (so get it out beforehand). They weigh two pounds and usually cost 2 silver
+
+**Equipment**
+	* Acid costs 5 gold.
+	* Alchemist's fire costs 10 gold and does 2d6 fire damage. 
+	* Poison costs 1 gold. Not 100. 
+	* Holy water can be applied to weapons with the same rules as poison
+	* Popular gaming sets also include Go (5s) .5lb, Reversi (5s) .5lb,, and Coup 1g - 
+	* Tinker's kits now include a set of screwdrivers, rivets, pliers, and other tools for modifying machinery. The skillset includes use of lathes, drifts, punches, and things for milling metal.  
+
+**Magical goods and services**
+	
+	* All magical weapons native to the plane have the property of returning if thrown, it's just a holdover baked into the process for making magic items that survived since fourth edi-I mean... the dawn war. On occasion this applies to other magical items, Frequently Tea Sets, A few local legal documents, and the odd sandal
+	* Spells may be purchased at a rate equal to the spell's level squared, multiplied by 10 gp, then add twice the cost of the consumed material cost, plus 10% of nonconsumed material cost for purchasing casted spells.
+
+	In general, to purchase magic items on this plane one can expect to pay these amounts. Most places do not produce cursed items for sale 
+	* **Common** 300
+	* **Uncommon** 3k
+	* **Rare** 15k
+	* **Very rare** 75k
+	* **Legendary** 200k
+		Many legendary items and a few very rare items are either unique (or of a limited set) or not producable at the university, one will have to construct them on their own or find them. Such legendary items include
+		* Armor of invulnerability - hard to produce
+		* Cubic Gate - extremely unlikely to function
+		* Deck of many things - Illegal to produce
+		* Hammer of Thunderbolts - Unique so far
+		* Holy Avengers - Hard to produce
+		* Luck blades can be made but the wishes must be paid for separately and waivers must be signed.
+		* Manuals of Bodily health, Gainful exercise, Quickness of action, Tomes of Clear Thought, Leadership and Influence, and Understanding - **Upgraded to legendary, university buys copies for 75k on recharging copies, 100k for unused ones. There is a waitlist to use these items.**
+		* Rings of Djinni summoning and elemental command - Illegal to produce
+		* Rods of Lordly Might - Surprisingly difficult to produce. Only two are known of on the plane
+		* Spheres of Annihilation - Illegal to produce
+		* Staffs of Charming - illegal to produce
+		* Swords of Answering - Nearly impossible to produce, though it has been done
+		* Talismans of pure good and ultimate evil - Hard to produce in //Manaharamu //though Danzuishan has had some success.
+		* Talisman of the sphere - illegal to produce
+		* Tomes of the stilled tongue - Uniques
+		* Well of Many Worlds - Extremely unlikely to function
+
+
+	**Artifacts and sentient magic items are not allowed to be owned in Manaharamu legally, Sentient magic items are illegal to buy or sell in Danzuishan and Skalmirthon. Artifacts become property of the government. Sentient Magic Items have rights in Skalmirthon, Manaharamu, and Danzuishan.**
+	
+	
+
+
+**Services**
+	* Hiring coach is not a thing on this plane. Journeys between towns are long and arduous processes and the fact that there are roads is a literal miracle, often one guided by a group of clerics or paladins. A group may be allowed to join a caravan at similar prices //if// one is heading in the same direction anyway. 
+
+**Spells**
+	* For the purposes of Shillelagh, Druids can target staves, greatclubs, clubs, and really anything that was grown first.
+	* Water breathing now also includes protections from the water and its salinity, though not necessarily pressure.
+	* Teleport, if cast at 8th level can open a portal up to 100 feet across
+	* a creature being targeted by gentle repose does not need to have eyes but in fact just needs to be in contact with the two copper pieces. The denizens of the plane often carry a wristlet with two mounted copper pieces in them for just such an occasion,  but industrial versions of these bands tend to be made from wool.
+	* Conjure woodland creatures and conjure animals now require the player to choose the animal, despite the sage advice stating otherwise.
+	* The coefficient of friction on almost all force spells is negligible for almost all purposes, but if it comes up, say that it is variable but by default mimics glass. Allowing certain spells to be held and not, for example, for those same spells to achieve superluminal velocity
+	* Ottiluke's Resilient sphere is no longer weightless. It weighs a negligiable amount. Any similar text that uses the term weightless means "a negligible amount."
+	* Multiple casts of Antimagic field that end up encircling or fully encompasing an area or volume that is outside the effects of antimagic fields will cause wild magic surges if a spell is cast within 30ft of the zone, plus an additional 25ft per level of the spell.
+	* Catapult can target objects that weigh less than 1lb
+	* Plant growth only targets multicellular plants and only plants that are outside of a creature. 
+	* Saliva, tears, hair, outer epidermis and similar nonliving matter is considered to be part of a living creature for the purposes of targetting. No casting Prestidigitation on people's spit while it's still in their mouths.
+	* Plane shift and banishment and other planar travel spells are limited in their function. While the Feywild, Astral plane, and the Shadowfell connect to the greater feywild and shadowfell across the multiverses. The Elemental planes here are extremely small in comparsion. Other Planes such as various heavens, mount celestia, the hells, the abyss, and Mechanus are all extremely difficult to reach due to the magic of the plane. Things being summoned might not notice a time difference between their summoning and their banishment but creatures who are here for longer than approximately a year (It's rather specific to the individual and has been as short as a week for some while others might never notice the effect) are likely to be stuck here, regardless of their power, except Gnomes who seem to be able to avoid this effect entirely. Gods are also able to come and go as they please but even they have to deal with the distance between planes as they come and go from this place.
+	* Demiplane and Mordenkainen's Magnificent mansion have extraplanar spaces that function //differently// than Bags of holding, handy haversacks, and similar items. Rope trick does not. 
+	* **Simulacrum is banned. The Villains win if it is not.**
+	* Unconcious people automatically grant consent **for the purposes of magic targetting.** Legally, this is not the case and using magic against an unconcious person may be seen as quite heinous.
+

@@ -1,0 +1,9 @@
+# Incursion_of_Demons
+Created Friday 25 May 2018
+
+It is An unfortunate turn of circumstance, that Orcus, Baphomet, and Demogorgon have all been present on this plane. The first came in ancient days and was trapped by the Raven Queen, The Second banished almost immediately, and the third was Struck down after a three year excursion across the north.
+
+Demogorgon's minions have taken the northern side of ushlubarel along the south flank of the Ualakomara, Reaching toward berpsin, putting yet another shield around Kholira, while not particularly hindering their movements.
+
+Yeehongu occasionally destroys things on the great grass road
+

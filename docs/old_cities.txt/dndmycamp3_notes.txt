@@ -1,0 +1,209 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-08T22:08:42-03:30
+
+====== dndmycamp3 notes ======
+Created Saturday 08 February 2020
+
+CHOOSE YOUR ADVENTURE
+http://ttaud.io/2kCSrQ3
+ Ganglegrove 	
+	Backwater shanty town, varied races. Runs through the Mangroves and brackish swamp of the Merrier Glades. Produces oranges, Spices, semi-aquatic game (crocs, Waterfowl, eel, Crayfish).
+	No power. All water comes from eating Various fruits. 
+		- Monster Hunt (Basilisk,
+		- Pirate campaign
+ Mokoi Tha'am 
+	Githzerai, Hengeyokai, Elves. All excellent hunters in this jungle town. The town is built in the trees, not to avoid the dangerous beasts that roam the forest floor (there are many in the canopy) but to avoid the seasonal flooding and occasional mudslide. The town specializes in gathering exotic fruit and spices, like peppers, pineapple, saffron and cinnamon. Screens are a Necessity, as many spiders, snakes, and angry tree-dwelling mammals (and stuff) dwell in the mazelike canopy. Some Solar collectors have been installed directly above the town. They are shielded and covered to prevent damage.
+		- Environmental survival
+		- Alchemy Fetch Quests
+		- High-priced inn
+		
+Bregigh (breg-eye), The town's name translates more or less into "Barrow throne,"
+
+	Those who appease the spirits the most get their own barrow, large grave mounds that span out slowly from the town. Blueberries, crowberries, and cloudberries line the spaces between the mounds.  Water comes from a hillside spring, and it provides many minerals that neither hunting nor gathering would otherwise. The spring is said to be enchanted by fairies that speak for the spirits, but one hasn't been seen in fifty years. Often, Youth venture from the town to seek fame, fortune, or maybe some other calling. Few return, but on occasion, a new mound is found in the forest beyond. Children are taught to fear the mounds, and honor them as they pass, for the honored dead will stand no slight, Ghosts protect the town, each bearing the blessing of their guardian spirit. Each tribeperson has their own spirit animal. Not necessarily that they are unique, while there are hundreds, it is not uncommon that more than one person gets "Narwhal" for example. There are cultural connotations to getting the same animal as another. If you have the same spirit animal as the deceased father of someone who hates you, they will likely hate you more, even though they are pressured to accept you. Likewise, if the whole family gets the same animal, and you do not, then it might be considered a shame, though the idea of that happening is extremely rare, and probably only something that happened in the past and now is part of campfire stories
+	
+ Bladewater 
+	A human Whaling settlement on the cold northern shore. Permanent tents of fur and leather maintain heat fairly well on the cold shore. Freshwater is usually gleaned from the snow, because despite fishing for young Kraken, Leviathan, Whale and well...fish... The viking-esque inhabitants aren't stupid enough to go near the river for which the settlement gets its name. Vegetables are often shipped into the town via road or boat. Only one building has power and that's the solar powered Longhouse, which houses the cheiftan, most people who don't want to spend the night in their tent (or are too drunk), the operations headquarters, and the dining hall and kitchens. The meat is stored underground in the locker. The Violent Slaving nation of Kholira sits to the east. The Inhabitants often sharpen their teeth to look fierce, and it is not uncommon to train the wolf-dragons that roam the area. 
+		- supply run
+		- [Monster Hunt] (Yetis, Leviathan)
+		- Legendary Item Quest (wastes)
+		- Legendary Item Quest ( Up the River)
+		
+ Pebblerpony 
+	Halfling Gardens, Dragonborn Port. Seaside town, part of a small inlet. Great Producer of beets, potatoes, and Lettuce. Wave-powered. Some hunting, Some fishing. Water comes from a hillside spring. Apples grow wild in the woods nearby,
+		- Missing Children (Black forest, Blights)
+		- Rat problem (Dante's Inferno)
+		- Pirate Campaign
+		- [Monster Hunt] (Banshee)
+ 
+ Gearshire 
+	Wide shire-esque town. Mostly Warforged and Satyrs. Town lives in good harmony as the warforged rarely get bothered by the Satyr youth and the youths learn quick not to try. Powered by wind and (a rare) teslaharmonic crystal, that receives power from the Power plant on the mountaintop (which is VERY far away),
+		- Legendary Item Quest 
+		- [Monster Hunt] (Ankeg)
+	
+ 
+ ~~Xia Ochiko ~~
+~~	Town built mostly on wood platforms spanning small islands. Lots of tall plateaus and mesas in the area (see, china) wiiiide river (wider than most cities). Wilden and shifters make up the majority of the populus. Lots of Fishing, some gold panning, Powered by waterwheels~~
+~~		- Diplomatic  (bullywugs)~~
+
+ 
+ Mjoriskivor
+	Mountain town, freshwater rivers run nearby, Road leads through town to deep mountain pass, then caverns into Skalmirthon. Well traveled, fairly large town, diverse populus.Lots of trade, rare goods. Powered by Small windfarm, Solar Collection station, and Thermal power from deep metal rods driven into the earth. Great maple-liquer
+		- Item Fetch Quests
+		- Merc Work
+	
+ 
+ Berpsin
+	Woodland town, Deep wells supply water, wells actually connect to tunnel system that runs for miles. Woods rife with game. Also predators. Like Owlbears. Lots of Owlbears. I don't think you realize how many Owlbears can be in one place this time of year. There's a lot of them out there. Luckily they can't open doors. Town lacks power, except for emergency generators. Town has several accomplished medic acolytes here to collect herbs from the woods. The road that leads through the town is a simple path, may need maintenance. Side trail leads to a ravine (Manuels river style). Good wines in town, 
+		- [Monster Hunt] (owlbears,)
+		- Alchemy Fetch Quests
+		- Legendary Item Quest (up the Ravine)
+	
+ 
+ Torniutr 
+	Dwarven town, Volcanic tundra,some of it active. Smells of sulfur but you get used to it after a while. Powered by several thermal-based methods in the nearyby gysers and vents. Dwarves are collecting loose minerals to ship back to Skalmirthon for processing. Lots of Cheese production from local auroch-cow hybrid. Hot-springs nearby. 
+		- Delivery Quest (to Mjoriskivor)
+	
+ 
+ Ilfea 
+	Hillside, terraced town, mostly elves, half-elves, and eladrin. Placed in the highlands, the sunset is wonderful there. Windmills in the plains power their village. Good beer, Sake. 
+		- Politics
+		- Sparring Ring
+		- Bandits
+
+ 
+ Marshfire 	
+	Similar to inland Newfoundland towns, built next to a vast expanse of bog, where they get their bog iron, fish, crayfish, and gamebirds. Generators are run on gas, but only at night. Excellent wine from the local berries. Largely Human and Half-elf
+		- [Monster Hunt] ()
+		- Ghost Congress Survival
+		- Supply Run
+	
+ Wickerly 
+	A Fishing town that also is home to a specially bred woodland sheep, a "Wickerwood Sheep" which are large enough to be ridden, but extremely stubborn. The people wear ponchos made from their wool when in the town making them look like they're wearing thick straw, hence the town's name. They mostly export fish and wool, but they also make excellent string instruments, as the wood in the area is extremely slow glowing and the sheep have organs well suited for strings. Mostly human, isolated firbolg tribes nearby.
+		
+
+ Varshelm 
+	Riverside, Similar to Helgen, Lots of woodsmen. Their Power is collected through several large solar-orbs throughought the woods, placed on top of marked trees to be of low profile, higher yield. Easy to repair, low total yield, good enough for light and heat and some machinery. 
+		- Monster hunt
+		- Goblin Raiders
+		- Sparring Ring
+	
+	
+ The harmonious chord of Moroji Aku Aku, that brings the dawn to the green side of the cheese
+	Population: 21. 1 Mad Shardmind, 20 nondescript hungry things. Abandoned town in the woods
+		- Open World, Immediate fight
+	
+ Morwerta
+	Konian satellite Duchy. 
+		-Murder Mystery
+
+ Rainsound		
+		Konian Navy outpost
+			-Recently sacked by pirates
+			
+ Ruined Coast, 
+	abandoned villages north of Rainsound 
+			-Filled with hags
+			
+ Chermina
+	A konian Satelite city. 
+		-An entrance to the underworld 
+		
+ Shaat'dar 
+	Manaharmu satellite town, 
+		- Populated by Hobgoblins and bugbears
+		- Shrimping Town with large labyrinth
+	
+ Stein Haven
+	Last manaharamu satellite port before the dragon coast
+		-Coastal Kenku and dwarven town
+		
+ Sanity Islands
+	Two islands, the mouth southwest point of the continent above ground and water. The Last Danzuishan Satellite town before Grand Tortuga and the start of the Dragon Coast.
+		-Large Gnomish and Halfling Community on Big Sanity
+		-Isolated Goliath and Firbolg Tribes on Little Sanity
+		-Low trade on both islands, largely self-contained communities.
+		-There is a beholder performing experiments on local Gnomes and halflings
+ Het
+	A small Kobold town ruled over by an Umber Dragon. The Kobolds there wear Wide-brimmed hats and Sunglasses while the sun goes up and down. At night they fish, surf, and produce. They only speak draconic, they don't trust outsiders. Their population is around 20% uurd, an unusually high number.Their most interesting products are sunglasses made from desert sand and cowboy hats made from Sandy Bullette belly leather. They have built their town into the sandstone rock outcroppings, some of them make pavillions of stones and leather. Their main sources of food are mice,fish, coconut. They are crepuscular and only some move around during the day.
+	
+ Mickery. 
+	A Muddy town that only exists because of its rich opal mines. 
+	
+ Wickerly
+	A small town near the end of the Ushlubarel River. The inhabitants are short humans and halflings who Tame Giant owls as pets and on occasion, mounts. The people take great pleasure in their River which hosts a great many fish that seek the warmth from the river, which is fed by volcanic vents in the nearby hills. The Wickerly residents wear cloaks made of a northern relative of Elephant Grass and Owl Feathers, Their houses bear much the same design. The town has a small Power plant that runs off of the difference in temperature between the wamrth of the river and another smaller aquifer, as well as a waterwheel and Turbine. It simply powers town lights at night, houses don't tend to have their own. The Residents are largely idylic and this makes them prey to things that lurk in the night. The owls Tend to protect them from most of their threats. It is nigh impossible to capture a wild owl for a mount, but possible to get one of the tame ones. It takes a lifetime of bonding to acheive the grace to mount one. Hunting with them, well that's easy. 
+	
+ Gerfuo
+	A town on the Ushlubarel River. It is a strange town
+
+
+	
+CITIES
+
+ Skalmirthon
+	The Dwarven-Drow-Sverfneblin underground city of really really great mining. Although Technically the city isn't underground as it sits in the Caldera of the great Skal Volcano, it never receives any weather other than "sunny" as the peak sits higher than any cloud can reach, short of rare cirrus wisps off the top. The city is powered by Deep thermal power, water is tapped from the springs inside the mountain walls, Food is often imported in exchange for the variety of crafts, mechanisms, machinery and raw materials extracted from the nearby mines, which tap into the volcano's rich ores.
+
+	The city is host to great night life, and sports a variety of exotic drug trade, and a great many illegal activities to boot. Also fight pits. FIIIIIGHT PIITTSSSS. Plumbing mostly runs into a pit of Lava about three miles out, Vented in another crater well enough removed from the town that in the event of eruption, the town would be safe. Recently the town has gained a new King after the previous republic failed, He has left a Regent in charge in his stead.
+	
+Kholira
+
+	Friendly people, beautiful women, sprawling farms and enchanted fields of crops, wonderful artisanry and a Definitive and passionate pursuit of the complete Submission of the rest of the world. Their Godking is said to have been inspired by a book that fell from the duel of two angels as they flashed between worlds. Lots of Flowers	
+	
+Manaharamu
+	The technological capital of the continent, Manaharamu boasts the finest educational standards and a good place to get out of the rain. Nearby a large Aether collection power plant and distribution center beams energy to the other cities. Most Cities have their own backup power but the teslaharmonic radiation synthesizer horns give them what it takes to truly power their civilization. Manahamaru boasts some exotic foods, despite being in the deep desert, and LOTS of enchanting and magical services and opportunities to expand one's skills. Underneath Manaharamu are the ancient Koldathi Catacombs, and under them, a series of deep caves. Manaharamu's government is run by a moderately successful constitutional monarchy, though trouble has occured in recent years with the Current Queen insulting the Kholirahi Godking. Power is obtained through the power plant and the solar panel fields nearby. Water is obtained through mountain springs. Sewage water is often recycled, and waste is often sent to the university botanical gardens and arbotoreum where many rare species of plant live. Manahamaru's main products are Oils from local plants, Medicine, and knowledge, which has proven to be more than enough to keep the country rich and well fed. 
+
+Konia
+	A Hexagonal fortification girds a degagramal series of ramparts and artillery. Konia is a large castle citadel with strict security. Konia has a failing economy due to its spending on weapons in the last war, all of which were made obsolete by Manaharamu's Aircraft. Sections of the city have been cordoned off to prevent the spreading of several plagues. Many predatorial races that are...less inclined to coexist with any sort of society in mind have come to feed or experiment on the people of the town...regardless of their mortal status. The current government, an army of Paladins, Clerics, and Invokers of a variety of good gods, have recently overthrown the previous despotic tyrant in place of a senate, formed by the head of each of these orders. Some mild political strife from religion has caused progress to be slow. The town is rife with history, but that may not always be a good thing. The oldest building in town is a massive (town-sized) Cathedral, ornate, covered in gargoyles, and claiming nothing toward any god, people rarely venture within. Outside the city are the ruins of old fortifications from wars fought, they are said to be haunted, and they are. The town sustains itself though, despite the hardships, on game from the haunted forest which has turned out both a multitude of corpses and incredibly skilled hunters, on its art and scupltures, and it's mass production of fine cloths, leathers, and still yet, arms.
+	
+Dwallat
+	The Anarchic Kingdom of Dwallat is a Dystopic clusterfuck of sin, violence, and offence. "Ruled" over by a family of Teiflings, the vast underground expanse was pilfered from the dwarves by assaulting creatures of the darkness in the deep 
+	caves that riddle the Plateau in which they they had the misfortune to build in. Everything dislikable and Rotten seems to have gathered here in a pit of barbarism and hermitism. A lot of dragons have their hoards here, and a lot of people have died trying to get to them. Most of them not all the way dead either. Wild things inhabit the tunnels and sandy crags as well. Gricks and Liondrakes stalk prey here, and are often preyed upon by The Various Sphinxes that also guard treasure here. The city is unpowered but the dwarves were rumoured to be working on something in the deep before they were slaughtered. It is the ideal place to go if you want to be left to your own devices though, The Porous but strong rock filters out all noise, and easily disguised doors may house decent folk that had no where else to go. The Lord of the Dragons' Name is Ujira.
+
+Danzuishan
+		A collection of smaller towns amalgamated into one. Each one renamed to suit its purpose in Danzuishanese culture. Over time this place gained a prosperous economy, managed by over 9 town councils that bicker and squabble over every movement among themselves and the others. Originally, the townships were each their own pirate band, each ready to retire and settle down, thus, the Danzuishanese Navy was well formed from the beginning as a concillar militia. The most effective member of each militia tends to move up the ranks by nature of being good at their job. Each Militia slowly specialized over time to make themselves more valuable to the whole army, eventually, the original Danzy and Shan Clans were at the top, and within the past 200 years, became one clan through a landmark marriage. Danzuishan boasts exciting spices, fish, and engineering. Their shipwrights are the best, and have often been contracted out to Manaharamu to build their airships. 
+	
+	
+Grand tortuga
+	Once a prosperous trading outpost, grand tortuga has been long overrun with pirates, cutthroats, and unscrupulous traders for over a thousand years. While there isn't a governing body, there are groups and families that one would do best to not cross. The city almost mirrors Kara'ite, as many orphans are taken up by the more powerful groups to keep up their numbers. Turtle Culture is often friendly despite being reclusive. Visitors aren't welcome into homes, Bodies are never found, but bumping into someone in the street is met with smiles, 'excuse-me's, and apologies. The people live in perpetual politeness with the understanding that the arrogant are never seen again. Grand Tortuga hosts is own breeds of warrior, with adept assassins, subtle mages, and creatively insane warlocks who have made pacts with the deep. The town is lined with stormpiercers and modified versions thereof. The town understandably has the finest fried seafood, as well as almost every trade good known to man. The Town is obviously not without danger, quite the opposite, a wrong step, a percieved threat, or the wrong word uttered can end with disaster.
+	
+	As of Two years after the blackwater incident, The Island of Grand Tortuga is now Under the Rulership of King Lazarus Honore Dorian Tibeaux and Lady Luciaria Tibeaux. The Minister of Information is Ghuivere DurFisher, The Minister of War is Quenchen Rockwaller.
+	
+Kara'ite
+	LOREM IPSUM DOLORE SIT AMET
+
+MISC NAMES
+Vibesten
+Junesun
+Ngdramalr
+warklorg
+Quenllon
+the sweeps
+Kalveno
+Sabreclearing
+engcouver
+Ahgwuak 
+Vyi Vyo
+aedfrugge
+
+
+
+
+Thigns to add
+	Skylantis
+	Skyland
+	
+	
+NOTES
+
+The map PNG has a coastal perimeter of approximately 14161 Pixels, Making each pixel approximately three miles
+	The Turkey is known as the "lesser phoenix" but is actually unrelated to any member of the phoenix family`
+	
+	
+bad shaman drugs
+ effect: Psychoactive hallucinogen, Makes a person untoward and agressive for up to a week after Effects last 1d4 hours in which the subject experiences complex hallucinations and near total sensory isolation, with the exception of hearing which remains unaffected. Subjects report complex and impossible scents, colours, and sensations which researchers presume are ones that the brain is capable of interpreting, even without the necessary organs to observe them. Bad Shaman, Or Phlebotonous Benzomthyl-2hydro-3prop-fluorate is banned in the Manaharamu, Skalmirthon and Konian Protectorates as well as the Kholirahi Empire. It is a controlled substance in Kara'ite,
+ 
+ 
+ I fully intend to have Lagarach and Tibeaux's Parents both revived by orsithach
+ 
+ 
+ Apigadi LaGaj

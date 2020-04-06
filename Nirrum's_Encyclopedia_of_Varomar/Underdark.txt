@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-07T06:22:27-02:30
+
+====== Underdark ======
+Created Saturday 07 July 2018
+
+The Underdark
+	[[+An_Underdark_Adventure]] 
+
+ The Underdark within Varomar is as complex as the land above, but far harsher. The Entrances and Exits are frequent but often hidden. 
+	 The Continental Underdark contains Four  Major Civilizations,
+		[[+Cher-Mina_Undercity]] 
+		[[+Brekmu]] 
+		[[+Rajata]] 
+		[[+Broville]] 
+	 Each is unique and takes on the task of living underground in unique ways, none are quite as large as the city-states above and indeed, Cher-mina is part of the Konian Protectorate.
+ 
+	The Pelagic underdark contains 27 major civilizations, 
+
+ Most Notable of the Underdark's Sapient Denizens are:
+	Drow
+	Svirfneblin
+	Stone Giants
+	Flumphs
+	Quaggoth
+	Duegar And Dwarves
+	
+ with
+	Formorians
+	Aboleths
+	Behir
+	Chuul
+	Myconids
+ as other, less sociable creatures
+
+
+As with most planes, after the frost zone the temperature slowly increases, Each of the civilizations will have their climate listed as part of each, and Dungeons will, as part of their module, describe their own climates 
+
+
+
+Cher-Mina Undercity
+	A set of Tunnels into which hovels, shops, are simply carved. The undercity is complex and the largest Drow population on the plane. It passes through the frost layer and into an area which is approximately 13 degrees C at all times, the path to the surface is short and easy to find 
+	
+ Environment	
+	The illumination levels are dim and the power is channelled from windmills above. Fresh water comes in from the nearby Gallery Canal through pipes in the riverbed. 
+	Primary sources of food are Fish from the port and Drow Mushrooms. Some of the drow population takes particular pleasure in eating giant cowish spiders. The Drow have recently managed to get a hold of Rothe, a subterranean cattle
+	
+ Culture:
+	There is a rift in the undercity, the native drow and many of those who end up on the plane celebrate their liberation from the spider queen lolth. Some of them still worship the Demon Goddess, and have much animosity to the rest of the people. They are all mildly intolerant of outsiders but most are civil enough
+	
+ Notable NPCs
+ 
+ Raido Lomak (Raido Rilynda'ar) (ENFJ)
+	A Titan of a drow, standing at Six foot. She is a half Goliath Drow, Daughter of Hagal Orcbreaker Lomak and Xunrin Rilynda'ar. Hagal is from a tribe of Goliath on the north west face of the eastern aegis mountains, while Xundrin is from Menzobaranzan in Faerun. Raido was raised among her mother's people but when her mother died at age fourteen, she sought out her father. Time Dialation between the two planes brought her to Xundrin's last moments. She took everything she could from her father's shack and Freed the dragon trapped in his sword who accompanies her as a spirit. She then returned to Varomar, and became the Matriarch of Cher-Mina. She is bombastic, in your face, and smug in her heritage, she does not believe in luck. 
+	
+ Yazi, The Seeker of Destiny
+	Raido's Guardian spirit, a long golden dragon who sits on the ethereal plane when not called forth. Yazi Despises the idea of luck and will attack clerics of Avandra on Sight.
+	
+	
+ Seldrith Barani (Mushroom importer)
+	Celebrated motherfucker
+

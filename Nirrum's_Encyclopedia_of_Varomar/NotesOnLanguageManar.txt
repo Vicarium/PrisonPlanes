@@ -1,0 +1,353 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-29T04:07:22-03:30
+
+====== NotesOnLanguageManar ======
+Created Friday 29 December 2017
+
+	
+	The Kholirahi are descent of the Mana people, many speak the same language, though time has made the dialects distinct.
+		**Verbing**
+			Manar evolved with the idea that any noun is also a verb that is modified by its subject and it is only by immersion in the language that you learn to interpret the context of some of the stranger ones. These noun-pairings tend to rely on context. Ulla'ti'lo, for example would be  the answer to the question of "how will we get water?" and would mean "We will be welling" with "welling" being implied to be something to do with or for a well, and really, one of the few things you can do with a well is find or dig one. Ulla'ti'lo
+			
+		**Specific Subject**
+			When Verbing, to indicate a specific subject, the properties of the subject come after the verb, Pruwa'ta fani lor, rest does the pink rabbit. The Pink rabbit rests. De pet neshta Pep'ab Ta Lor Fani  (the surface [it moved to], Hopped [onto],  the rabbit pink ) (The pink rabbit hopped onto the surface(table)) (CONTEXT&SPECIFY)(VERB-subjective)(SUBJECT & compliment if ) 
+			
+				"Savenarpet Dal Varomar Dalta Nirrum Dal Kaolok" Dala ke... Nirrum Dal Kaolok Ra'a
+					Nirrum The Mad's Encyclopedia of Varomar is mine.... I am Nirrum the mad.
+
+			Nova Alo'ta Tasa, Tasa follows nova 
+ (Family house) builds-other <That for> ((good) Is-other (father))  
+
+
+
+	**Adjective-simile suffix** 
+		Using -zhuh at the end of a word can change it to an adjective. Brekzhuh (which is far shorter to type in Manar, I assure you), mean "rocky" or "hardy", likening it to rock 
+			
+		**Pronouns**
+			Gendered pronouns are for the weak, and not everyone in Manarahi society even has a gender to begin with, Thus, Manar uses //introduction-order pronouns. //In this system, a //number// is assigned to the subject depending on the order it was introduced. If Mulat and tongalag are in a fight, One stabs two and two dies, we know that it was Tongalag who died. In the event of confusion no pronoun is given but the "ti" and "ta" suffixes get used until clarification is needed.
+	
+**Mana**-Power/magic, also short for the Manarahi, Magic people. Throughout this document, they are referred to as Manarahi, but they did not develop that indentity until they were into trade negotiations with the Early Lelumadil/Skal dwarves when the population was living in Tepet, their first exodus point from the underdark. This is actually a loanword from Celestial.
+
+Hara-mountain, although technically it just means "hill", the mana people have never distinguished until very recent years, The common "hill" has entered their language
+
+Rahi-People, Racially indistinct, refers to all sapient creatures, Components Ra, indicating a spacially distinct object and its location, and hi, the sound of laughter and in the eyes of the Early Manarahi, the first communicable sign of soul, sapience, and presence, The idea which linked a hundred separate and isolated races into one people.
+	Raha - Person, a later addition to the language
+
+Mu - Town, City, world also a placeholder answer to a question that should be obvious, "here"
+
+**Kholi-** 	Poetry, Sacrifice, or Injustice (and the act of rectifying it), all have etymological roots in the theatre arts of the Manarahi people around y1900, The theming of much of the Manarahi plays was Cosmic Irony, wherein a circumstance is unexpected and in juxtaposition to what was expected. Like Rain on one's wedding day. Rooted in Kao and leeg. In Particular this word gained a lot of power during the schism in y1992, when the Manarahi split after they evacuated (or were forced out of). The word also encompasses feelings of loss, grimness, resolve, and anything around the idea of doing what must be done (Especially if it's a bit dramatic). 
+
+Mana Ulla. The ones who were forced were the Kholirahi, while those who left by choice became the Manahararahi
+Ulla - A well, fountain, spring or exposed aquifer. from alag and La
+Pipir - Fire
+Alag - Water
+cuukiku - Giant, onomotopoeic for the sound of giants walking, Partially related to oowa, the oo sound being co-opted for anything big, 
+Oowa - sky, Often found as the etymolgical roots in words relating to relief, and much later, sarcasm.
+Pruwa - Profound relief, rest
+Utar - Sarcasm, admonished speech
+Brek - Hard or Rock, This was one of the first words the Mana people used as a unified people as they escaped underdark captivity
+ar - Language
+Kao - ephemeral constructs, ideas, memes, also used for knowing and understanding as a verb
+Leeg - Lies or Stories, Specifically denoted archaicly pileeg and aleeg, or Pili and ali in more modern usage. Pili is enclitcally related to Pipir, the word for fire, as Pileeg was an implication of "burning" untruths, while Aleeg was "flowing" untruths, and is connected with the concepts of Water. the ancient Manarahi made sure to emphasize that while water gave life, it also was dangerous, and early bards were only cautiously accepted. Concurrently, fire is a lot of work to upkeep, and extremely dangerous, but can be necessary to keep you alive and many people use it in daily life without harm. Leeg itself is still the current use, but applying li to a concept can denote it as uncertain or exemplary depending on the context.
+	'nli/Anleeg - the truth. "not lies" . It is interesting to note that Leeg itself might be rooted in Common
+Bar - yelling
+Dal - Of the, Implying some connection to the following term. The Manahararahi royalty are "Dal Manarahi". Irregular verb as it comes //after// the object noun in its unverbed form, such as its common counterpart is used.
+	Dala - Mine
+	Dalu - yours
+	Dalta - Another's
+	Dali -ours
+	Dalti - Multiple others'
+	Dal'ni - No one's, unowned. Irregular in Manar as the negation is for the subject, not the verb,
+	Dalke - a property of an object. Its
+De- From
+Mish-Change
+Tamish-the changed property of things that have changed, notes of changes, Denoted by the symbol  Δ in Physics
+Haz-Face
+Kempa- Hand
+Kem - Grasp, bring
+	Kema - I grasp/bring
+	Kemu - you grasp/bring
+	Kem'ta - Another Brings
+	Kemi - we bring
+	Kem'ti -Multiple others bring
+	Nekemi - No one brings
+Paȑ - tool,  Pah-er, 
+Jazz - A usually upbeat form of music often involving trumpets, double basses, Saxophones, and wire brushed drums.
+Bet - Darkness
+Lyss [like Lease] - Jewel
+Lyz, (leez) - Good, from jewel
+Bliss - Star, rooted in Bet and Lyss, Archaic Betlyss.33333
+Lok/Loch - Mystery, rooted in aleeg and alag separately, first used to describe dark waters
+wa - Neutral energy, A pause, as a verb it means to stop
+Olsh - The sound of sloshing water, Onomotopoeic originally but through metaplasmic enclitization, came to also be linked to alag as Alash, the movement of water
+Alash - the movement of water, Flow, explicitly physical, current.
+Welch - Waves. When the ocean was first discovered, it was thought that waves were its natural state, and that all water would have this on some scale, rooted in Wa and Olsh. Used as a surname for families with a historical penchant to wander.
+Lat - house, dwelling or structure
+Lor - Rabbit, hare, 
+Dwallat - The name of the large mesa on the other side of the desert, although it originally referred to its inhabitants, as it means de wa lat, From the house that exists on its own, Referring to the many tunnels that exist inside the sandstone structure. 
+Ra - That, Thing, the state of existing. Originally it was exclusively tangible and spacial objects but grew over time to mean "something" and much like mu, is often a laconic answer to a question.
+	Ra'a - Me, I am
+	Ra'u -You,  you are
+	Ra'ta - Them (singular) that one is, 
+	Ra'ke - it is, exclusively inanimate or dehumanizing, ke is a rare verb suffix because inanimate objects rarely verb other than exist, as a verb is by nature, an action
+	Ra'i - Us, unrelated but poetically linked to "rahi" which means people. "Rahi Ra'i",  we are our people is a frequent idiom used mostly in political propaganda
+	Rati - Them (plural) They are
+	'na'i - Nothing , nothing is
+	Nnera - not
+Vor -  cave, natural Shelter
+Vora - Womb, Poetic inference to spawn-capable (not all of them are exactly women) individuals from the earliest of Mana literature. Because of the nature of the world, many cultures brought their preconceived notions of womanhood, sex, and gender over. This has been an ongoing problem in Varomar but it is usually solved quickly, often violently, and usually by a Female barbarian.
+Ravora- A creature born of magic, a common surname for elves and elementals, from the idea that the long lived creatures don't procreate nearly as quickly as others, giving rise to the idea of their wombs being out of place. Archaicly ra'n'Vora
+Doo/Du - Big
+	dooven Bigger
+	doovil biggest
+-ven - er, as in larger smaller greater smellier, 
+-vil - est, superlative, 
+Ta- The. Often Used as a prefix in common concepts such as change, mish being change and Tamish being "The change", but frequently a distinct word.
+Mi - small
+Milor - mouse
+Anra - I, Self, Me. A strangely late addition to Early Manar, the need for such complexity in the language arose rather late after its widespread adoption. 
+Atss - to eat (infinitive)
+	Atsa - I eat
+	Atsu - you eat
+	Ats'ta - another eats
+	Atsi - We eat
+	Ats'ti -Multple others eat
+	'Natsi - No one eats. Importantly, omnipresent negations of verbs always include the self. This Deprives Manar of the Dramatic exclusion of the self from a group (Not we because not I) that exists in Common, but improves dramatic endearment.
+ -'Ab/Ab - Past tense Modification suffix. Applies to verb. Most Manar Verbs end in a vowel, so a glottal stop is included (or not depending on regional accent), The sentence remains otherwise unmodified so non-native speakers may find it difficult if the suffix is shortened or left off to discern the tense. (Ta Lor Nnatsi'ab, we did not eat the rabbit)
+-Lō - Future tense modification suffix, Etymologically unrelated to Lor (Ta Lor Atsalō, I will eat the rabbit)
+Rabet - Shadowfell. The Early Mana believe the shadowfell to be the physical manifestation of darkness. While not technically true, it narratively holds up, as many of the ideas related to darkness among the Manarahi match those we here outside of this world might match and understand. The Unknown is still frightening
+Ke- It
+	Keta- an object that is not immediately on hand
+Kobet - the Unknown, from Kao and Bet, Thought and Darkness. 
+'ne-/Nn - Negatory prefix, Normally attaches to the verb.  (Milor ta Nnatsa, I do not eat the mouse) but can apply to anything to imply its negation, there are colloquial exceptions which can get confusing, such as 'nlor- Lion. Literally: Not rabbit  
+Kodal - Codex, law, code, axiomatic list. from Kao and Dal
+Konia - A city to the north east, whose name comes Ironically from an archaic and obsolete shorthand form of "selfish," (Kao N'i/a, thought not I/you, They do not think of us, They do not think of me. The Manahararahi's first king explained his lack of power in dealing with the early Konians. They do not care for his people and he cannot fix it)
+Alawabre- Ice, from Alag, wa, and brek. Known to the early mana from their time in caves nearing the surface, seen as the herald of death,
+Omsha- Wind, air
+Sha - air
+	Sha'ta-it boils or sublimates
+Kuu-plant
+Miku-grass and other short plants
+Nemiku - Bushes, heath, person-height plants, Archaically also kelp
+Milagu - Kelp, sea plants
+Duku- trees
+Kwatsi - Edible (Kuu, Atsi, plants we eat. It has to be said that the Manarahi have never been intrinsically vegetarian, and while their diet tends to contain far less meat than a 21st century North american's might, they do eat it. Meat was, and even now continues to be a rarer treat among the Manahararahi who might eat a dish with meat once a day at most, with the vast host of Manahararahi eating meat once a week. If there is to be a distinction between vegetable and meat, Kwatsi will refer to vegetable, while Kwatsigan would mean meat), Ra'ke Kwatsi means it is edible, Kwatsi'u Kwatsi means Eat your vegetables.
+Kwatsira - Edible thing
+Kwatsigan -Edible, Meat specific
+Kwatsulat - Restaurant
+Kotsi - Food for thought, Poignant
+Gan - Animal
+Alagan - Fish
+Dragon- Dragon, Doo, Ra Gan, the large obvious creature.  The similarity to Common is entirely coincidence
+Ba - Loud
+Omshar -Music
+Lyssar - Singing
+M'Phoenix - Lesser Phoenix, Turkey. Unrelated to any member of the phoenix family, imported from Konia within the last two thousand years, simply Mi(small) Phoenix. Lesser sounds too close to Lyssar and turned people off the dish at first, especially when they heard the sounds. This actually lead to a Large Misconception among the Manahararahi that the Konian people were tone-deaf and uncultured savages, despite their significant advancements in warfare, medicine, and raw material refinement up until the war of ants in 5802, as well as their complex music scene, producing such legendary operas as "The Wine of The Mountain" or such ditties as "Thalomendar's Reel" which everyone seems to know
+Mo-Cold, Containing the same literary meaning as it does in English, Also works for standoffish, or particularly dispassionate malevolence
+Liku- Fruit, Lyss and Kuu, Jewel Plant.
+badoo- Thunder
+Pioowa - Lightning 
+Vorahi- woman, No other configuration of being got a word in ancient manar, though in modern times a newer slang for male has rooted itself inextricably.
+Barahi- Man, Derogatory in origin and rather sexist, the Women of Mana are just as audible, but the name stuck.
+Mibrek- soft earth, dirt 	
+Alabet - Death, Actually from Alawabre/Ice as it was an early symbol of death, and  darkness, which was seen as simply the juxtaposition of the light that holy magic usually carries. It is important to remember that the earliest manarahi were descent from mages and often were mages themselves, and thus, magic took an important part in shaping their early culture, as much as the monsters of the underdark did. 
+Betgan- Monster. Many of the Manarahi could not see in the dark, nor very far, and were often preyed upon by the things that could. Here, devils and demons couldn't  even contact their own and the light of the stars, malevolent or benevolent, could never reach, so warlocks to be gifted sight were out of the question until the Raven Queen's coming. Thus, Light and Dark take much the same roles as they do in many other places
+Cheva - a profanity that traces back to an ancient hex
+Brucheva - an emphatic profanity
+Chevau - an insult
+Pinra - Light/shining
+Prabrek - Metal (Shining rock)
+Parrmish - weapon, especially sword
+Tong - long
+Ti - short
+Tongpa - tongparmish, long weapon, spear
+Tongtenk- Archer, bow and arrow
+Tenk -Strike
+	Tenka - I strike
+	Tenku - you strike
+	Tenkta - another strikes
+	Tenki - We strike 
+	Tenkti - Multiple others strike
+	Natenki - no one strikes
+Ki - flesh, strength, loanword from common
+Ganki - physical muscles, no ambiguity
+Ramish - Travel
+Ramishi'i - Nomads
+Olo - round
+oloramishra - Wheel, rolling thing
+Voloramisra - Covered Wagon Vor/olo/ra/mish/ra, Rolling house
+olopi - Sun, Hirokira's nickname
+Vi - blood, loanword from Latin, Vir
+Raulyss - a fond greeting
+mishlia - an opinion, should (Mishlia Nneramishu'lo, You should not travel. Mishlia ganki prabrek nnekiven, I think flesh [is] stronger than metal. The absence of this word may proclaim undue uncertainty. You should not go becomes you will not go, and in Manarahi culture, that is a statement that must be backed up) The default interpretation of this word is should, it can be appended with -tab to become "might" or "could" 
+Hiat - Taste
+Hiba - Hearing
+Hikem - touch
+	Hipi -hot
+	Hialab - cold
+Hiki - Proprioception
+Hiomsha - smell
+Hipinra - sight
+Hirahi - social sense
+	Kemahirahiu - Be aware (social)
+Himana - any magical sense
+Hiralo - Foresight
+Hipinrolo - Eye
+Hihi - Laughter, also love, the Manarahi seldom differentiate
+Prabrekhi - Construct, warforged
+Prabraha - artificer 
+brekao - Certainty, Surety
+sho - and
+Shor - for, because of
+Shet - but
+shal - As, Equal
+Tha - or
+Parra - with 
+Vorpa - in (vor parra, with shelter)
+Lata - My house, though verbed it becomes "welcome"
+Shora - Physical Meeting
+Pinralisraha - Important Person
+Tab -  in the past
+Talo - in the future
+wi- an inquisitive modifier, attached to a word it usually simply means "why"
+		Wira - which is  
+		Wilo - When is ___ / will
+		Wiab - When was
+		Wita - What is
+		Wimu - Where is
+		Wiwa - Why is
+		Wihaz - Who is
+Wanlo - now
+	Wanwilo- an infinitive when. When the described circumstance presents itself,
+	Witilo -will we?
+Ratilo -will 
+	Ratilo Tab - would, unintentional Didn't
+	Ratilo Talo - would, conditional haven't
+Parmishi - Adventurer, mercenary
+draparhi - Army
+Sholo - Besides, and yet
+Mananwa - Teleport
+nawabe - Ne wa alabet, danger, the idea of danger being death that is moving.
+Kurth - root, cognate Earth from common and Kuu, Plant.
+Fa - Color
+	Faeh - White/light
+	Fago - Grue (not to be confused with the creature)
+		Fagoal - Blue
+		Fagoku - Green
+	Famon - Brown
+	Favi - Red
+	fali - yellow
+	fabet - Black/Darker
+	Fani- Pink, also used for blushing and to indicate particular negative significance. Pink is used on Warning signs and worn by edgy teenagers.
+	Fabo - Purple, from fabet, it became distinct enough when the manarahi emerged into the sunlight
+	Nafa - Transparent
+	famana - Octarine
+Pep - hop, Jump (de pet neshta Pep'ab Ta Lor Fani   ) (The pink rabbit hopped onto the surface(table))
+Pet - Surface. Tarn Ravora Claims to be friends with the child who made this word, saying it was distinct from darkness. "That was bet, this is pet." Ta Pet. The Surface. Tepet. Can be used to described countertops, tables, any surface. This has had profound effects on the development of Manarahi philosophy, as instead of light being the counter to darkness, The surface is. Concrete and ephemeral balance out, Hard doesn't need to compete with soft, but with things that move. This view of wu-wei duality was instrumental to the development of early tepet magic as instead of one thing being matched with its opposite, it was matched with something // on a different conceptual level//. Tarn claims his friend wouldn't have understood, She was more interested in playing on the rocks.
+Newa - movement, the act of moving, with the implication of not being stopped.
+Nesh - move to/, an etymological reconciliation of Newa and alash, both of which refer to movement, one of the problems the language ran into as it grew
+Kwapet - bread/sandwich/any bread-encased food
+Neki - soft
+Nekwelch - Hair 
+Tongan- Pig
+Petgan - Horse
+Pagan - Goblin
+Ganvo - Leather, skin, covering. Gan/vor
+Nekivo - Wool
+Vovo- Clothing
+Brekoli - Law, specifically civil and punishable, where it differs from 
+Shagan - bird, flying creature
+Cacrug - Chicken, Onomotopoeaic
+Rugrugoo - Rooster
+Gaom - Bell, Onomotopoeaic, 
+Omshamu - Sky islands 
+Sha - Number  from Change, thing, mish ra, mishra, Misha, sha
+	Ta - One, Singular, The. "The one" is "Ta ta," and is recognized contextually)
+	Me - Two, A couple,  cognate Mi, small, used to describe a small amount of things "Just a couple," Frequently used in context to mean "a few" as an uncertain number
+		Meikao - Two thoughts, Dichotomy, Options
+	Shur - Three 
+	Shupe - Four
+	Kerpe - Five
+	Bel - Six
+	Arcai - Seven, the secret number, named because it featured heavily in the styling of mages who tried to hide in the underdark before communication was fully set. 
+	Mansha -  Eight, The magic number,
+	Jemekem - Nine
+	Mekem - Ten, From Me and Kempa, Two hands
+	Dokem - Twenty
+		Jedokem - Nineteen
+	Shurm - Thirty
+		Jeshurm -Twenty Nine
+	Shupekem - Forty
+	Kerpekem - Fifty
+	Belkem - Sixty
+	Arkem - Seventy, Also slang for streetfighting 
+	Manshakem - Eighty
+	Jesaven - Ninety
+	Saven - Hundred, Slang for "many"
+		tasaven - One hundred, Distinct counting number
+	Shoo - Ten Thousand
+	Proshven - Million
+ja - Less
+Oosha - More
+-va - eth, to indicate that an object's property is a number, "four**th**, fifti**eth, One Hundredth**"
+Viganki - heart
+maaaa - ehhhh, Anooo, a sound indicating uncertainty or perception of greater context, a placeholder sound
+naba - Quiet	
+oonwa - up
+benwa - Down
+Kenwa - Right
+manwa - Left
+jawa - Backwards
+Lonwa - Forwards
+ranoru - Gift, passing something from someone to another
+har-name
+falioru - Money, specifically, gold coin
+arpet - paper
+Kukema - Harvest
+Parku - Sickle, Manarahi sickles have a sharp chevron-like angle instead of a curve, mostly owing to the ability for the Magic people to keep blades magically sharpened throughout the day, making it easier to pull than hack at their grains.
+Skethpar - Scythe, partially onomotopoeaic
+Lirano - shortened from Lysranoru, good gift, Thanks.
+Liran - Thanks, Shortened from Lirano
+L'A -Extra short thanks, text form
+tavil -first
+Savenvil -infinite
+Waven - slow
+Newaven - fast
+Wavil - last
+kaolok - insane
+tira - all
+Jatira - Inclusive OR, At all, any, the lesser all
+timu -everywhere
+nehirahi - Corporeal undead
+nevirahi - incorporeal undead, but also vampires
+hirahi - Spirit
+Manahiraha - God
+Hirahilat - Temple, Archaically modified Manahirahilat which is frequently just shortened, When describing a particular god or spirit, this replaces Their designation as god or spirit. Timu Hirahilat, for example, or Torm Hirahilat
+Hilat - Also temple, but also theatre, Laughter or soul-house
+Þi - yes, affirmative, an indication to keep going, 
+Þii- emphatic yes
+Kuke - Gather, from Kukema 
+Kukelag - Fill, from gather and water
+Miviku - seed (from mi vil ku, smallest plant)
+shamivik - pollen, interestingly, also sperm. The early Manarahi knew more about Biology than those greeks I've heard of.
+Ganhihi - Sex
+vorbet - underground as  a whole
+Monwa - North, Where the cold is. Interestingly this phenomenon only works because of the continent's northen bias on the world's face, I have confirmed that there is ice to the south as well
+Alanwa - South, Where the waters are
+Skalanwa - West. toward skalmirthon
+Konwa -East, don't think about that way
+Kaogan - rage, fury
+Kaovi -Lust, Craving
+Kaohi - Humor, happiness, completeness
+Artab - history
+Hikaorahi- Knowledge seekers
+Jaraha - lesser person. Originally it meant goblin but now it has the same connotations as "Bitch" in common.
+Hiar - reading
+Petiar - Writing
+Alo - "One's way" useful for "Alo'u" Follow me, or "Alo'a" I follow
+Piral - Important, shortened from Pinralysraha, or possible enclitization from an older term
+Manapiral - Level, an abstraction of the abilities of a person, though definitively linked to the hieghts of magic they can cast
+Manazhuh - Powerful, Powery, magicky
+Manakemarahi - mage, caster, this was a hard one for the Manarahi to come up with because for the longest time //everyone// was a mage
+Savenarpet - Encylopedia

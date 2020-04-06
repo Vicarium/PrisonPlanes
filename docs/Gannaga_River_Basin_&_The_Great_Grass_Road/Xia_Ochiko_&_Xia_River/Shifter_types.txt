@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-23T14:09:33-02:30
+
+====== Shifter types ======
+Created Thursday 23 May 2019
+
+Beasthide: Beasthide shifters are blunt and rude; they often speak loudly and interrupt others. (+1 AC)
+
+Cliffwalk: Cliffwalk shifters are often shy and introverted. (Climb speed 25)
+
+Dreamsight: Dreamsight shifters are usually calm and contemplative, especially when compared to other shifters. (speak with animals, +2 handle Animal)
+
+Gorebrute: Gorebrute shifters are loud and aggressive. They are more likely to threaten violence than most individuals. (+2d6 on charge)
+
+Longstride: Longstride shifters are aloof and prideful. (+10 speed)
+
+Longtooth: Longtooth shifters are savage and almost feral. (1d6 bite)
+
+Razorclaw: Razorclaw shifters respect little other than physical power. (1d4 finesse claw)
+
+Swiftwing: Swiftwing shifters are twitchy and nervous. (20ft fly speed)
+
+Truedive: Truedive shifters are remote and somewhat callous. (swim 30ft)
+
+Wildhunt: Wildhunt shifters are suspicious and untrusting.  (Advantage on perception checks made to smell)

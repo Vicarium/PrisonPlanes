@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-30T23:05:21-02:30
+
+====== House Kyada ======
+Created Tuesday 30 April 2019
+
+The head of the police department, major source of their funding and Law enforcement in Danzuishan. Kept afloat by grants from the queen and equipment from the Sadamoro
+
+Allied with:
+	Sadamoro
+	Terusada
+Coerce:
+	Barigai (for grant from the queen to avoid coups)
+Coerced By:
+	Riar
+	Haldar
+
+

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-30T19:57:35-02:30
+
+====== Magic Item Cost ======
+Created Saturday 30 March 2019
+
+common 300
+uncommon 3k
+rare 15k
+very 75
+leg 200k

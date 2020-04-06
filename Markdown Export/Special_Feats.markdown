@@ -1,0 +1,11 @@
+# Special Feats
+Created Thursday 13 February 2020
+
+This setting has some feats that can be taken. Some of them are good, some of them are good in *specific* situations or in specific playstyles.
+
+**Solid Centre**
+When attempting to shove a creature as part of the attack action, you make your Strength (Athletics) check with advantage. You can also push the opponent 10ft instead of five, or push them 5 feet and knock them prone.
+	
+
+
+

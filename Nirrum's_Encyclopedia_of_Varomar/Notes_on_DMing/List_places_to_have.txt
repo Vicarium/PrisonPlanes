@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-19T17:29:45-02:30
+
+====== List places to have ======
+Created Tuesday 19 March 2019
+ 
+Parks and Rec
+Antique store 
+Asylum
+Bakery
+bank
+Arena
+blacksmith
+bridges
+Brewery
+Cafe
+Gambling
+Craft store
+farms
+Graveyards
+Harbors
+Hospitals
+Inns
+Laboratories/workshops
+Libraries
+Mansions/manors
+Mines
+Shop of *item*
+Pet shops
+Prisons
+Artists and tattoo artists
+TAvern 
+Temple

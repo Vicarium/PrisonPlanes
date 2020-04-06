@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-14T22:30:18-02:30
+
+====== Lich_Ritual ======
+Created Friday 14 September 2018
+
+Requirements: 
+	* Poison
+	* Sapient creature 
+	* Sapient creature's blood
+	* the Imprisonment spell
+	* Phylactery
+		* Requires an internal space big enough to hold a soul
+		* Silver sigils of naming, binding, immortality and dark magic
+		* 120,000gp worth of materials
+
+Dracolich
+	* Multiple clerics and wizards to tie down the soul of the drago
+	* needs a gem
+	* phylactery must be resistant to decay
+	* give material object a magical name that matches the dragon
+	* Dracolich brew - changes from dragon to dragon and by age
+		* always seven ingredients
+			* potion of dragon control
+			* potion of vulnerability
+			* blood of a vampire
+		* 1/10 chance of dying
+	* Gem must be brought within 90ft of a suitable corpse, dragon or reptilian
+	* lead wizard will cast Magic jar while speaking the name of the dragon and touching phylactery. 
+	* Then touch the corpse the wizard wishes the dragon to inhabit
+	* same alignment easier, different species is harder, old body of the dragon will almost always succeed, 7 days to become a dracolich
+	* wrong body is protodracolich
+		* corpse will come back to life but will have body's memories, not dragon's
+		* when protodracolich eats 10% of the original dragon's body, you become dracolich
+
+Dracolich corpse dust is useful for control undead potions
+Immune to 5th level or lower spells
+needs to eat to get food to get powers back

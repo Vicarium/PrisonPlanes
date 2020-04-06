@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-26T23:16:29-02:30
+
+====== First Floor-Overture ======
+Created Tuesday 26 March 2019
+
+The First floor of the maze for my party will start once they open the first door.
+
+Immediately they are greeted with an extremely foul smell as they enter a short square room with a dead gargantuan shark with irregular purple striping on a greenish back and a brown belly. Characters must make a constitution saving throw for every minute they spend in the room or be poisoned for 1d4 hours. If the characters have eaten in the past two hours and fail their save, they lose the food they have eaten and would not gain the benefit of having eaten it. 2n+1 nilbogs clad in pale masks  and thick white cloaks made of cords with bells hanging on the end erupt from behind the shark if the players talk. They only speak goblin.  The goblins will always move to be within 5 feet of eachother
+
+Behind them is a curtain-gate made entirely out of silver armbands worth 1gp each, for a total of 300gp. **But behind the gate, held impossibly by the extremely sparse curtain, the next room is entirely flooded.  **
+
+**Breaking the gate floods both rooms, without reducing the water level in the flooded one. Moving it aside does not have this effect. Things that move into or out of the water come out wet, as if the arm bands are simply providing a new surface of the water, blowing on it or splashing it creates waves which want to move downward after they begin with their normal circular propagation. Effects that control or shape water will work on this room, though the water will eventually melt ice and if the mechanism fills the room with water after being emptied, it will fill with new, warm water.**
+
+** Players that cannot breathe underwater cannot breathe here, the bull is just special.**
+
+The square, 14ft tall, 30ftx40ft Room contains an aurochs bull, seemingly able to breathe under the water, munching on some sea grass. The water is impossibly clear but tinted green by the walls.  In the corners of the room, are four White statues that glow at the base as if in intense moonlight. The statues depict Muscular hobgoblins, pointing as if running toward something. The Statues, upon investigation are set on circlular diases, with clearly marked gauge marks, indicating numbers from 1-400, with 400 being oriented toward the center of the room, with 1 and 399 on either side. The statues can rotate to point in the direction of these numbers and they do so with very little resistance, On each statue, because of the walls, only a range from 350 through 400 to 50 can be selected. the total values the statues align to is 1600.
+* When they Point at any Given Wall An opening appears
+	* Opposite the entrance reveals an empty but domed room with red walls, and black trim, making the light within it dim. A mummy lord with 13 health waits here. It has not established its lair, but does have 500 gold worth of small golden cylinders around it, and two 100gp rings on its fingers.
+	* Right of the entrance is a pair of gargantuan genderless but obviously nearly human legs made of sandstone that are slowly fading away. Stuck into it is a rapier. The name on the Rapier reads "Lazarus Honore Dorian Tibeaux" with "The Old Chariot" on the other side of the blade. It functions as a "charity sword"
+		* **Nirrum's note: **A convenient ozymadias reference, or the result of Elder Dramuut getting cut in half by the bag-in-a-bag trick? Who can say?
+	* left of the entrance is the interior of a small wooden hut, the outside of which is bounded by the blueish green stone of the maze, streaked with black (should the players attempt to tunnel through). The person inside is a very lanky **old halfling woman**. She is a druid of the 4th level and has goodberry pie in the oven currently. She offers the pie to the players if they can help her escape the maze and it not only heals 5hp but acts as a single cast of "lesser restoration" if eaten, there are 12 pieces total and it takes an action to consume one. The pie is tart but also sweet. 
+	* If pointed at the entrance, the entrance is replaced with a stairway downward. Creatures still in the previous room can see in but creatures in the room can't see them, and only see them emerging from the new doorway as if it were a watery illusion, the stairway down goes to Floor 2
+	* If pointed at a creature, that creature gains the ability to breathe underwater for 1 minute.
+* When they are oriented for a total value of 200, the room drains and the Aurochs begins to suffocate. If the previous room is flooded, it flees to there. The rest of the mechanism's operations change then
+	* If all statues point (as best they can) to any one of the four walls, An opening reveals itself on that wall
+		* Opposite the entrance reveals a room with 25 hostile bodhaks that move out of the way of the party until everyone is in the room
+		* To the left of the entrance there is is a small platform and a 60ft drop with no ladder. This brings the party to Floor 2
+		* To the right is a dark corridor with seemingly no end (It is 3 miles long). The air is always clear in this hallway and smells of old glue or paper. This brings the party to A large octagonal room with a stunning mosaic on the cieling, within is an abandoned village built for something that could have been no more than three feet tall. The construction appears to be out of mangrove wood. A blind Oni sits against one wall.
+			* Within the village there is spice snake jerky and Kimchi, which is extremely spicy but edible, there is enough for 4 medium creatures
+			* The oni asks for a single participant duel of anyone. Anyone who even remotely interferes is cursed to have disadvantage on Wisdom saving throws for 1 day and 1 hour. Attacks to hit the Oni have disadvantage unless the player is also blind. If the oni dies, he leaves behind is glaive, a Black guan-dao with jade-like inlay. The Guan-dao is magical and can be used as an arcane focus. 
+				* **The oni will  do nothing if they leave him alone**
+				* If they sleep without watch, they wake up to the oni sitting on a dead horse with no flesh on its head and long fangs.
+		* If pointed to the entrance, Nothing happens
+	* If pointed at a creature, that creature gains +2 to damage with weapon attacks and only takes half of all damage for two hours
+* When they are aligned to a value of 1400, the room fills up.
+**The Aurochs is Indestructible and ornery. It will charge the nearest creature every round unless charmed.**

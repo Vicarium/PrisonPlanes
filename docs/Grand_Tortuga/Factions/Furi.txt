@@ -1,0 +1,104 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-07T18:42:12-02:30
+
+====== Furi ======
+Created Thursday 07 June 2018
+
+Ship Furi
+	While it is worth noting that many of the Furi on the Island are tiefling, not all of them are. On the overworld, less than 1% are tieflings. The Tieflings are rare overall, The majority of them are native and somehow related to Orsithach. The reason for the extreme concentration of them on the island is their Innate ability to access unique magic that aids them in Controlling and manipulating the pirate clans around
+	
+	Leaders
+		Lagarach Munsa ENTP Monk
+			Þe Furi Family Representative is a Tiefling wiþ medium horns þat curve slightly up, running roughly parallel. He has medium lengþ silver hair in a short ponytail. His skin is Crimson and his eyes gleam Green wiþ pink streaks. He constantly has a supressed smile, as if he can barely contain it. He carries no weapon and dresses plainly in white shirts and brown pants. He Does wear an obviously magical circlet, but no one knows what it does, he is 6'0 exactly. Anyone who attunes to the circlet finds themselves capable of looking through clothing and with a bonus action, changing elements of someone's clothing to be opaque. The circlet is shrouded in hundreds of countermagical charms and is functionally indestructible, and utterly untouchable by all but the most complex magic. 
+		
+		Orsithach Furi, ENTJ
+			The patron of the Furi Clan, Leader of the overworld mafia, probably the most duplicitous being in the world. He is 5'8. He wears white robes suitable for his desert home in Dwallat. It would require something of the highest importance for him to come to dwallat personally. He grins subtly and smugly. He is also the heir of the Native Tiefling Clan, descent of their first king, The First Red Sinner which, depending on how you pronounce it also means "the angry smiling animal", This is the origin of their namesake, Furi, Meaning first, red, angry, and animal. 
+			
+	Important Members
+		Biero, INTJ, Battlemind
+			A calm and calculating human, who is scretly a psionic assassin. He is loyal to the furi. He wears a breasplate and wields a longsword and passes as a fighter
+			
+		Mogora Tam ISTP
+			This pollaxe wielding Tiefling Paladin is actually the leader of the footmen, and is an adept footman himself. He has rage problems, wears bronze dragonscale armor, and smiles a toothy smile that clearly has poor intentions
+			
+		Burthar Mangac INFJ
+			A winged tiefling Fighter with a flail that manages the guards for the Shivering Spine, which houses the Furi's compound. He is perpetually staring into the night with a grim and suspicious look. 
+			
+		Ongrum Bonesnap ESTP
+			A blonde sun elf prostitute, raised by orcs, Decadent and hedonistic to an extreme, but professional when it comes to keeping her job. Entirely shameless. 
+			
+	Trump:
+		The panic switch. A lever in Lagarach's personal quarters that, if pulled, summons the Furi Army. 
+			
+The Shivering spine
+	-NO WARFORGED, SHARDMINDS, IF YOU DON'T NEED TO EAT YOU'RE NOT ALLOWED IN- 
+	Low south, a large building with Hobgoblin Architecture (Japanese), well lit by paper lanterns, It has wide windows that function as displays for their wares, prostitutes and drugs, and as rooms that are available should anyone want an audience. The building is supported by concrete, and the walls on the outside that aren't glass are mirrored (and reflect magic). It has one entrance from which the smell of incense wafts. Two wide sliding doors that are guarded by two Furi Footmen. Just inside the door is a small room that contains a Furi Mobster as backup. There is a short hallway that is bifurcated by a triangular desk, behind which is an entirely naked attendant (choose their gender and race by rolling or something) The attendant gets incomers to sign their name on a large tome nearby the desk. It is enchanted so that someone cannot lie about their name. The large, well-worn hallway to the left is plaster walled and has red floors worn away to show time-polished wood. Six footmen demand that everyone leaves their weapon in a weapon check. Then, two doors that swing in open up to reveal a large, square room. All around, patrons, prostitutes, Drugs, drinks. The center the room is an open set of steps and booths that lead down into a large pool of what is clearly wine. The walls are more private booths that are separated by bead curtains. There are even more private rooms in behind where prudish patrons can partake in the vices offered. Patrons are offered food, drugs, and drink on the same menu by perceptive attendants who attempt to discern their animal tastes. There are occasional pickpockets, some of them house-employed, who try to lift weapon checks. Anyone who gets caught gets dragged into a specific room and isn't seen from again. The Red and beige paint and bright yellow light from the incandescent bulbs mounted in the ceiling give a cozy feeling to the fairly large room. There are usually about 30 patrons, and about 14 staff.
+	
+		MENU
+			Meats
+				Beef
+				Pork
+				"phoenix"
+				Chicken
+				Crab
+				Elk
+				
+			Sauces
+				Pineapple reduction (sweet and sour sauce!)
+				Coconut and butter
+				Honey
+				Chocolate
+				Gravy
+				Mokoijo sugar (an extremely savoury spice from the east that when warmed is liquid, but very rapidly takes on a brittle crystaline consistency as it cools. Despite its name, it is not sweet)
+				Sweet Ghost Pepper (Con saves of 13 are required to not succumb to the poisoned condition for ten minutes, being resistant or immune to poison negates this effect)
+				Dry Ghost Pepper (Con saves of 13 are required to not succumb to the poisoned condition for ten minutes, Being resistant or immune to poison negates this effect)
+				Wraith pepper (upon eating this sauce, the patron takes 1d6 damage every bite unless they are resistant or immune to poison, or have a constitution score over 15)
+				Whale Cheese Sauce
+				Fish Sauce
+				Tamarind sauce
+				
+			Side Dishes
+				Infernal Curry (Clove oil, Chili peppers, walnuts, Cured Porkbelly, Cardamom, black pepper, Melted Chocolate, allspice, Oregano, Toasted lemon)
+				Coconut Curry 
+				Surf Curry (green Sea Turtle meat and a special type of seaweed starch, butter, shrimp, Corriander, Cardamom, Cumin, and Mango Vinegar) 
+				French Fries (the attendants will not respond if anyone asks what a french is)
+				Pickled Mango snacker (pieces of pickled mango in oil, salt, vinegar, with a mix of spices
+				Pork Scrunchions
+				Fruit bowl (Mango, Honeydew melon, Dates, Pineapple slices)
+				Onion rings
+				Savoury Dressing
+				Poutine
+				
+			Drinks (+5g laced with something mindboggling)
+					Furi Select (red) 10g bottle
+					Vi'Namak (merlot)					
+					Ilfea blend			
+					
+					
+				Braided Mead 12g bottle
+					Mystic Metheglin (Rhododendron, Hallucinogenic)
+					Melomel
+					Cyser
+					Dry
+					Spiced
+					Marijuana Metheglin
+			Substance
+				Cocaine 10g/gram
+				Psilocybin 5g/gram
+				Shaman Suicide Dust 6g/gram 				
+				Tobacco/Marijuana 4g/kilogram
+				Fisher's Tobacco 4.6g/kilogram
+				Farsight Pollen 2g/dose (actually made from a frog, gives prophetic visions of the best possible future but is extremely addicting (con save 25) so the second dose mostly just shows how to get the next dose. The Furi keep a tight grip on its production and thus all of the addicts to this drug end up working for the furi.
+			Enchantment
+				10g/hour
+			Other serivces
+				5g/hour
+
+			
+	The Right hallway from the front desk leads directly to private rooms with the same amenities. Rooms are 10 gold a night, and most services are 5 gold an hour, and strict tabs are kept, although not always accurately (and never against the favor of the establishment), people unable to pay are blackmailed, beaten, killed, or on occasion, hired. The Furi offices are underground behind the secret wall panel of one of the rooms, which only one prostitute uses, as she is the only trusted one. Ongrum Bonesnap is always within arms reach of a hidden poisoned dagger Ready to assassinate the customer that is unlucky enough to be in the room when the Furi Enter or Leave, they rarely use that entrance, only for deals that need to be made quickly. For their protection there is a Curtain drawn across the wall-mounted bunk that obscures the rest of the room. Most of the thugs get their assignments at the door and the Higher-ups get teleported in by attendants who know the spell. At the end of the right hallway is a staircase leading up to the furi Dorms, and another leading to the kitchens. The furi dorms have a back entrance that leads into Remesari circus and it is constantly bustling with Various mobsters and footmen of all races, each passes a check at the door by a hedge-mage who uses detect thoughts on them. 
+	
+	The Furi offices are a network of tunnels that run deep, and, at one point, hitting the underdark, where the Furi Railway carries their members back and forth to Dwallat. The tunnels are collapsible, and were built specifically to trap enemies. The Offices contain slaves doing paperwork, A few high-level magic items, Weapon stores, and running drugs. They also contain the "panic switch" which is hit if the Furi Presence on the island is in danger. 
+	
+	
+	sorry frugbach

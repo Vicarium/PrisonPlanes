@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-07T22:16:14-03:30
+
+====== Tomb Of Ashes ======
+Created Saturday 07 March 2020
+
+Alright Acererak, Let me show you how a real Canadian does this
+
+This tomb is not built to be run by any adventurer. It is Built to kill. This dungeon is purposely unfun. It is Sacrilege to the bardic arts as it is not intended to entertain, though there are rules I have taken in building it.
+	1) The dungeon Is navigable on foot, A flyspeed is never needed for this dungeon though may occasionally be detrimental... or beneficial.
+	2) If I did not think of ammending it, then it will probably work.
+	3) While Magic.jpg, that is, bullshit magic, is used in this dungeon, I have done work to ensure that it behaves somewhat undertandably, except where noted
+	4) The Tomb *can* be undone, though the procedures for each thing will vary and may require great effort
+	5) No class feature can be explicitly cut off, though implicitly may be hampered.
+	6) This dungeon was designed by a level 20 caster with functionally infinite space, time, resources, and attention while doing so
+
+
+===== Dungeon Style =====
+
+	This dungeon is the resting place of the horrendous Archlich Novadicti. In this respect, it is navigable on foot. 
+The dungeon's colours will vary between rooms, but in most rooms, **the colour is black.** A black so black that it absorbs nearly all light from the Ultraviolet, visible and infrared spectrum. Neither Truesight, Devilsight, Darkvision, Normal sight, witch sight, nor the Manaharahi's Octarine receptors can make out nonmagical features in this blackness. Lighting a torch does nothing, because everything is black. 
+
+All surfaces are exceptionally grippy due to their **hydrophobic coating**. The Hydrophobic coating is **Highly flammable,** catching ablaze at the slightest spark and burning rapidly for 1d4 rounds. During each round, each 5ft adjacent area to a fire will also catch fire for 1d4 rounds. Rooms will be marked if such a fire will cause oxygen levels in a room to drop below what is tolerable for creatures that breathe air. 
+
+Doors are airtight in this dungeon. Most doors are functionally one-way and require special measures to get back out the way
+
+All rooms begin nearly entirely evacuated of oxygen  unless otherwise noted. A room without oxygen will not catch fire if it otherwise would. Nonmagical fires cannot burn in rooms without oxygen unless they are magical torches, not that it does much because everything is black.
+
+All walls are Layers of Jade, Nacre, a Linex-like material, a lattice of rather toxic metals, short-fibre asbestos, Fibreglass, and **magic.** Layered on the outside layers of these walls are Glyphs that continually mend said walls.  For anything that takes less than a day, they are functionally indestructible and detrimental to get through. 
+
+The entire dungeon is warded with the spell Guards and wards, cast hundreds of times, Each cast is permanent and each room will list which optional effect of the spell it has on it. 
+
+The same is true for: 
+	* Mordenkainen's private sanctum
+	* Forbiddance
+
+All parts of the dungeon and things within it are underneath the effects of "Nystul's magic Aura" such that all parts of the dungeon are randomly assigned attributes. If something is magical, its school of magic may be "Bear" for example. Most magical items will show as nonmagical to divination magic. 
+
+
+
+

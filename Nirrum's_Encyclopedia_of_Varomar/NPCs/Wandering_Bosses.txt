@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-19T19:01:56-02:30
+
+====== Wandering_Bosses ======
+Created Tuesday 19 June 2018
+
+
+==== Enchanted ====
+Enscorceled Trussari
+	The Enscorceled Trussari is a great boss to throw at players to introduce a story and give them pause, Are their abilities really that valuable? What enemies do they face?
+	The Trussari begins the fight looking sick, but on the first hit against him, that vanishes. He stands tall, proud and angry, and his eyes begin fuming green smoke. 
+	The Trussari has an Antimagic field that projects 10ft from him. He is a Fighter 7 samurai, Monk 3 Kensei
+	He uses his reaction defensively. The first rule of fighting, after all, is don't get hit. The second being hit. 
+	He will always target casters first, starting with the healers, then the weakest looking one.
+	If the antimagic field is gone and dispel magic or greater restoration is cast on him, the spell is broken and he returns to his senses and sets off back toward manaharamu.
+
+
+
+
+
+== A Horrible Night to Have a Curse ==
+A vampire
+Many Minions
+	Spectator for guarding a single location
+	crawling claws random
+	Skeletons Random
+	Spectres Random NIGHT
+	Flameskulls for hallways
+	Gibbering Mouther Wave boss
+	Werewolf Wave boss
+	Peryton if things go outside
+	
+	Players are brought into a large building by a being and told that a vampire waits and watches the castle, but cannot enter without permission. 
+	**Events run as follows:**
+	When the players start, it is mid-afternoon, so they have some time to prepare. 
+	After 2 hours, 

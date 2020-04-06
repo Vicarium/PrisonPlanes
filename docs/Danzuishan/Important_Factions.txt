@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-29T21:06:13-02:30
+
+====== Important_Factions ======
+Created Monday 29 October 2018
+[[+The_Danzuishanese_Education_System]]
+[[+Military]] 
+[[+The_Royal_House]]
+[[+Nobility]]
+[[+The_Maze_Hunters]]

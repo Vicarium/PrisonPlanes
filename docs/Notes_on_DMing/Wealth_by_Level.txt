@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-05T18:16:59-02:30
+
+====== Wealth_by_Level ======
+Created Friday 05 October 2018
+
+
+Level	PC Wealth upon reaching level
+1	Starting Gear*
+2	94g
+3	188g
+4	376g
+5	658g
+6	2930g
+7	5404g
+8	8610g
+9	12,019g
+10	16,563g
+11	21,108g
+12	30,161g
+13	39,214g
+14	57,320g
+15	75,427g
+16	102,586g
+17	129,745g
+18	214,204g
+19	383,123g
+20	552,042g
+20+	805,420g
