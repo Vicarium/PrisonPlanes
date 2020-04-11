@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-02-01T17:57:58-03:30
-
-====== Power_Plant ======
-Created Thursday 01 February 2018
-
-
